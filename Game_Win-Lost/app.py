@@ -130,6 +130,7 @@ class SkillRatingSystem:
         return self.flagged_players
 
 if __name__ == '__main__':
+    
     skill_system = SkillRatingSystem('Game_Win-Lost/DataSet.csv')
     print("--- FULL PLAYER SKILL RATING LEADERBOARD ---")
     full_leaderboard = skill_system.get_full_player_leaderboard()
