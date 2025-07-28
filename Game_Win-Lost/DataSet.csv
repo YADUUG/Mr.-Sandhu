@@ -1,0 +1,1001 @@
+Match_ID,Player_ID,Username,Team,Team_Name,Kills,Deaths,Assists,Accuracy,Headshots,Objective_Score,Time_Played_Min
+b4fc8e06-5908-4a07-b262-48e35acdb182,6c09eadb-a274-480a-beef-079994fb8216,GhostReaper,Team_A,GhostReaper_Solo,12,15,2,0.37,2,61,9.97
+b4fc8e06-5908-4a07-b262-48e35acdb182,e16cfaf8-a704-4e9e-b8e3-9b53fa16b0ab,BulletStorm,Team_B,BulletStorm_Solo,15,14,6,0.3,5,20,11.06
+42ce132f-f393-4a9b-abed-656349ac6fcf,48e2cfac-6c54-49be-a398-04b2d1908fbd,EchoHunter,Team_A,Shadow Corps,11,7,8,0.22,5,34,9.67
+42ce132f-f393-4a9b-abed-656349ac6fcf,f4adc5c8-b683-40c1-b6fd-13b9900f8982,GhostReaper,Team_A,Shadow Corps,24,5,1,0.22,5,73,9.79
+42ce132f-f393-4a9b-abed-656349ac6fcf,dc4661ea-fa1c-4d64-a524-9f74ef472c2d,TacticalTony,Team_A,Shadow Corps,14,9,5,0.25,7,40,10.69
+42ce132f-f393-4a9b-abed-656349ac6fcf,b448ecc6-238a-41c0-b088-2cc6a748f340,ZeroMercy,Team_A,Shadow Corps,20,6,9,0.45,7,48,9.61
+42ce132f-f393-4a9b-abed-656349ac6fcf,ba208fbd-a5c8-444b-836f-e05522f94da4,ZeroMercy,Team_A,Shadow Corps,20,7,4,0.42,2,92,10.25
+42ce132f-f393-4a9b-abed-656349ac6fcf,9a6664a1-98b7-4298-b6c1-4c3ab7298e41,BlazeOps,Team_B,Shadow Corps,15,5,2,0.29,0,50,10.53
+42ce132f-f393-4a9b-abed-656349ac6fcf,3b6dc8dd-dc30-44f0-9e45-607c146351c9,ZeroMercy,Team_B,Shadow Corps,16,9,8,0.51,9,63,9.23
+42ce132f-f393-4a9b-abed-656349ac6fcf,72e59aad-d7a0-47d1-a172-ff8fb34d2d01,Maverick76,Team_B,Shadow Corps,25,8,10,0.36,6,44,10.56
+42ce132f-f393-4a9b-abed-656349ac6fcf,9c33a16d-3e15-4816-8569-108200067b02,AceTrigger,Team_B,Shadow Corps,16,15,4,0.28,1,91,10.52
+42ce132f-f393-4a9b-abed-656349ac6fcf,25c64a07-44a3-4c01-a7f7-a83635ed9b81,AceTrigger,Team_B,Shadow Corps,12,12,6,0.23,0,31,11.65
+48eb8772-48e2-4bf8-9fff-5b135fa028e3,9a3278e8-7035-43bb-a364-51280d28bf96,CrimsonHawk,Team_A,Ghost Unit,19,9,3,0.23,6,83,10.95
+48eb8772-48e2-4bf8-9fff-5b135fa028e3,9c5608fa-9b12-451f-86af-fab9df0211f2,BlazeOps,Team_A,Ghost Unit,11,15,9,0.26,3,11,9.05
+48eb8772-48e2-4bf8-9fff-5b135fa028e3,f6e61e24-2330-444b-95f4-74c55b85717a,ZeroMercy,Team_B,Bravo Squad,25,13,10,0.39,1,4,11.19
+48eb8772-48e2-4bf8-9fff-5b135fa028e3,3e0915d7-9d1c-4c8c-b368-959372b839a5,BulletStorm,Team_B,Bravo Squad,17,11,6,0.37,7,58,11.93
+9c5312f8-2ddd-4710-91e0-ed31581b04e4,000a7759-0d02-4b85-8280-227a394340aa,WraithX,Team_A,WraithX_Solo,17,11,6,0.32,4,45,11.86
+9c5312f8-2ddd-4710-91e0-ed31581b04e4,2375526b-affc-4885-913b-94365b9f6c18,CrimsonHawk,Team_B,CrimsonHawk_Solo,19,10,4,0.42,8,14,9.17
+a6453447-b186-4893-ac8d-965370cd1b56,66effb8a-541d-4d88-8482-5ff946187415,DeltaSniper,Team_A,Red Hawks,13,5,9,0.25,5,47,10.87
+a6453447-b186-4893-ac8d-965370cd1b56,068fd6e3-da7d-4f44-83f3-d0bfe46f0c1a,NightCrawler,Team_A,Red Hawks,17,5,2,0.39,3,88,11.19
+a6453447-b186-4893-ac8d-965370cd1b56,6ce6b763-f57f-4031-b221-556b5ca25f33,ZeroMercy,Team_A,Red Hawks,16,15,5,0.53,10,95,9.25
+a6453447-b186-4893-ac8d-965370cd1b56,a62d9c9f-bcd2-4431-aa94-ad0995981f5e,TacticalTony,Team_B,Iron Titans,19,15,0,0.38,7,2,10.01
+a6453447-b186-4893-ac8d-965370cd1b56,205844f3-4a4e-4ede-8987-924a0b666e23,IronWill,Team_B,Iron Titans,22,9,6,0.21,0,49,9.42
+a6453447-b186-4893-ac8d-965370cd1b56,f69f06d7-ff3e-4508-be2f-961bf5a8a4c3,WraithX,Team_B,Iron Titans,19,6,4,0.31,4,64,12
+84f049b1-40cc-4df4-85e2-1b218320f353,5ccdca1c-1701-4c68-a2ac-c116758086a6,StealthWolf,Team_A,Ghost Unit,17,9,9,0.43,7,31,10.36
+84f049b1-40cc-4df4-85e2-1b218320f353,124eda6c-a41f-43cc-96ef-2829397f9ee3,GhostReaper,Team_A,Ghost Unit,15,14,5,0.3,7,21,10.31
+84f049b1-40cc-4df4-85e2-1b218320f353,f4dbee55-2f8d-419b-a665-1ce8830542b6,CrimsonHawk,Team_B,Shadow Corps,15,15,5,0.21,8,79,9.69
+84f049b1-40cc-4df4-85e2-1b218320f353,849fafd4-626f-4880-bf8e-570a5257730a,NightCrawler,Team_B,Shadow Corps,24,12,8,0.47,2,68,9.48
+f18a6842-cc95-40e3-af63-68c006b3bbe7,b73eff62-b78e-407b-b980-99251a55a5f3,BulletStorm,Team_A,Bravo Squad,19,14,10,0.33,5,79,9.25
+f18a6842-cc95-40e3-af63-68c006b3bbe7,b7e4b05e-877c-4fed-b777-d1f903fb3c6b,BulletStorm,Team_A,Bravo Squad,12,14,6,0.3,10,37,11.51
+f18a6842-cc95-40e3-af63-68c006b3bbe7,dd57a84e-cc9f-46db-9a86-8bc017c8040e,StealthWolf,Team_A,Bravo Squad,23,9,9,0.47,0,3,9.43
+f18a6842-cc95-40e3-af63-68c006b3bbe7,64594fff-4486-40f1-8edf-11b983c3aab9,EchoHunter,Team_A,Bravo Squad,12,10,8,0.26,6,63,11.62
+f18a6842-cc95-40e3-af63-68c006b3bbe7,76819f44-0167-46ee-b04c-69d4ac202776,NovaBlitz,Team_A,Bravo Squad,21,10,1,0.29,8,75,11.67
+f18a6842-cc95-40e3-af63-68c006b3bbe7,f86aa0dd-bb7f-424e-9a08-aed8c45c50da,SilentScope,Team_B,Ghost Unit,25,14,1,0.44,10,38,11.29
+f18a6842-cc95-40e3-af63-68c006b3bbe7,c58163dd-78de-4a3b-9df4-cf2b589ec79f,VenomFang,Team_B,Ghost Unit,24,5,3,0.46,6,62,10.85
+f18a6842-cc95-40e3-af63-68c006b3bbe7,bf5d5b8d-8f66-4d6b-bbf1-c8b1e8620922,IronWill,Team_B,Ghost Unit,20,5,0,0.46,0,88,11.72
+f18a6842-cc95-40e3-af63-68c006b3bbe7,d4321f5b-7a89-4a09-a172-2ef478107f19,StealthWolf,Team_B,Ghost Unit,12,12,10,0.37,7,30,11.13
+f18a6842-cc95-40e3-af63-68c006b3bbe7,96a5174f-87f5-44b4-9e00-edef9914c476,EchoHunter,Team_B,Ghost Unit,23,5,1,0.44,3,84,9.32
+cff14125-8e04-4ac3-a39b-5e3c2944daae,25421ac8-2f56-40e2-a15b-8555fcb8ef87,IronWill,Team_A,Bravo Squad,12,11,5,0.51,2,62,10.05
+cff14125-8e04-4ac3-a39b-5e3c2944daae,599aec1e-a222-4ff3-8bcc-5695d666da8c,CrimsonHawk,Team_A,Bravo Squad,19,15,10,0.26,3,16,10.51
+cff14125-8e04-4ac3-a39b-5e3c2944daae,18e425aa-6004-492f-909c-1e26d203f344,NovaBlitz,Team_A,Bravo Squad,22,12,1,0.44,5,87,10.51
+cff14125-8e04-4ac3-a39b-5e3c2944daae,0e7e591e-5419-41c7-a4a8-55c3fbd1e3af,GhostReaper,Team_A,Bravo Squad,23,11,5,0.38,5,95,10.52
+cff14125-8e04-4ac3-a39b-5e3c2944daae,a7edfeb7-f781-4d2c-a5ec-a3226dc0e476,WraithX,Team_B,Bravo Squad,13,10,6,0.33,1,53,10.25
+cff14125-8e04-4ac3-a39b-5e3c2944daae,c3ab16fc-9b14-4bcd-8ca5-ea8c4ef7f0e1,BlazeOps,Team_B,Bravo Squad,19,5,3,0.4,6,32,10.26
+cff14125-8e04-4ac3-a39b-5e3c2944daae,a0d845b5-db65-4e0e-ba3e-ec6a120ab324,BlazeOps,Team_B,Bravo Squad,10,10,1,0.4,6,14,10.11
+cff14125-8e04-4ac3-a39b-5e3c2944daae,d299dc81-682d-4955-a40e-39d8bf903dbc,TacticalTony,Team_B,Bravo Squad,17,8,3,0.41,2,16,10.25
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,b26e3806-df27-4d05-92d4-65cca24ca228,IronWill,Team_A,Ghost Unit,21,11,2,0.41,1,18,9.2
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,644e833f-9954-4b3e-b505-ae24d8622f36,BlazeOps,Team_A,Ghost Unit,24,9,6,0.4,9,62,11.28
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,2a548d5a-805c-4e0e-91fc-7b022a02da2e,NovaBlitz,Team_A,Ghost Unit,19,13,8,0.37,10,77,11.26
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,76796dbd-19f5-4763-a30b-47748b7103b4,BlazeOps,Team_B,Bravo Squad,16,6,0,0.4,5,20,11.79
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,bb81ceda-75d0-4a05-8f75-b8a3e197847f,SilentScope,Team_B,Bravo Squad,11,9,2,0.45,2,97,10.17
+493ee03a-2ff0-41d8-83e0-f256014fc6d1,f93bb32f-37a5-4201-9012-8185826b9dcb,CrimsonHawk,Team_B,Bravo Squad,12,11,1,0.29,2,61,9.71
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,3beb60bf-e34c-4cda-bd19-4fd8a50b0786,ShadowViper,Team_A,Alpha Wolves,13,12,9,0.34,1,73,11.92
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,444ec0cc-4e7c-450c-8478-6c0f605097bb,Maverick76,Team_A,Alpha Wolves,23,8,0,0.36,8,46,11.05
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,6782ca7f-7b5d-45fa-9e56-2b846c699db6,CrimsonHawk,Team_A,Alpha Wolves,17,11,2,0.2,3,1,11.36
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,c379a9dd-79d9-4231-939c-0f1f55461034,BlazeOps,Team_A,Alpha Wolves,16,10,5,0.35,7,58,9.62
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,74e94885-3829-49b5-ac35-898ab8021f9d,CrimsonHawk,Team_A,Alpha Wolves,22,14,9,0.46,8,39,9.5
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,01471b02-9a79-454b-af05-e3fccca190db,TacticalTony,Team_B,Night Stalkers,10,9,0,0.51,3,95,11.51
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,33c593ca-5edd-4dd5-8bc3-bad494b5283f,FrostByte,Team_B,Night Stalkers,25,8,4,0.21,8,22,11.26
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,feb5f89b-52f5-4799-a23a-943aa64dcb9e,WraithX,Team_B,Night Stalkers,19,11,2,0.27,10,92,11.38
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,42b5a629-e0a2-4da0-9810-f9b51a2c6af5,ZeroMercy,Team_B,Night Stalkers,20,11,2,0.23,0,31,10.67
+f669ca2b-d8ea-4f1a-8d40-cc9ff9c720be,9b96285b-e0e8-4dae-9c13-bdd748aed148,NovaBlitz,Team_B,Night Stalkers,10,15,10,0.5,9,42,11.57
+278f3245-e7c8-4c8f-8340-36987466bb7d,691b0b17-ddf2-40a9-a60d-8ceca0df9908,TacticalTony,Team_A,Red Hawks,20,8,1,0.52,1,12,11.9
+278f3245-e7c8-4c8f-8340-36987466bb7d,ac5af51b-fb33-4afc-9cfc-d3b683aeddbb,FrostByte,Team_A,Red Hawks,12,12,3,0.37,10,50,10.81
+278f3245-e7c8-4c8f-8340-36987466bb7d,6c638a55-773e-4567-b2cb-8b4391018366,BlazeOps,Team_A,Red Hawks,22,11,9,0.28,4,61,10.95
+278f3245-e7c8-4c8f-8340-36987466bb7d,1fe3cf99-458a-42e4-b659-ff060391189d,FrostByte,Team_A,Red Hawks,12,15,5,0.29,9,65,10.24
+278f3245-e7c8-4c8f-8340-36987466bb7d,748e4eae-b2f6-47ba-9adb-2458bb69927b,EchoHunter,Team_B,Alpha Wolves,20,5,7,0.27,9,6,11.93
+278f3245-e7c8-4c8f-8340-36987466bb7d,30b266b6-7697-4e82-be98-3b392763737a,FrostByte,Team_B,Alpha Wolves,18,5,3,0.49,5,81,10.47
+278f3245-e7c8-4c8f-8340-36987466bb7d,766bf7c3-c498-45e6-832b-88f64ae2a79e,NightCrawler,Team_B,Alpha Wolves,13,15,5,0.27,2,88,11.13
+278f3245-e7c8-4c8f-8340-36987466bb7d,260c6415-486c-4ff6-9760-2b48921d5d4d,WraithX,Team_B,Alpha Wolves,20,11,10,0.36,5,6,9.29
+b6bcfbd9-2472-45d2-a474-fb3b6206e1a4,d0d27f2b-05c8-40c5-b658-f62faee74230,ZeroMercy,Team_A,ZeroMercy_Solo,11,10,0,0.34,7,8,10.36
+b6bcfbd9-2472-45d2-a474-fb3b6206e1a4,6d2a9854-7382-4517-b4bf-a49cacc7c555,IronWill,Team_B,IronWill_Solo,22,10,9,0.25,4,69,11.55
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,ffc41755-b8a7-4491-8ce9-1d1248a1d676,AceTrigger,Team_A,Iron Titans,17,13,0,0.38,1,41,9.51
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,4bbb3530-6829-4a06-b9ae-645eb668b666,DeltaSniper,Team_A,Iron Titans,18,14,4,0.36,9,11,10.49
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,8cd8f317-b33d-47f0-803e-f63c8eeb92f2,ZeroMercy,Team_A,Iron Titans,22,6,6,0.34,5,17,10.06
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,a0769abc-f6f1-43ae-bb4d-4bf468e5f1a5,Maverick76,Team_A,Iron Titans,15,7,6,0.45,1,72,11.41
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,012607ae-ee19-42e4-882f-a28c39d41a34,RogueAgent,Team_A,Iron Titans,18,14,2,0.43,9,39,9.07
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,a6781293-83e0-48e6-8096-ca42462470e6,NovaBlitz,Team_B,Red Hawks,18,14,4,0.47,5,58,9.57
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,e6a88196-46b4-4b8a-803f-1ff3f413316d,SilentScope,Team_B,Red Hawks,23,11,8,0.23,8,55,11.64
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,b2126bdf-becb-484b-9cbb-3c6c44ed7967,RogueAgent,Team_B,Red Hawks,20,5,0,0.47,9,11,11.87
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,6e6a63a3-415a-4707-99fb-0e1ab6509b77,CrimsonHawk,Team_B,Red Hawks,21,11,2,0.46,3,72,10.55
+63ed8b90-21ec-4000-a3bb-8dc53ebf1a09,339c99c1-e6fc-4365-aa17-5ac33cd54543,CrimsonHawk,Team_B,Red Hawks,16,11,9,0.48,4,11,11.77
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,daf2ef4d-94a3-4897-8199-46256d910423,VenomFang,Team_A,Ghost Unit,13,13,6,0.47,0,90,11.01
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,45fc672c-3a7a-4a11-8657-373fdff2e383,Maverick76,Team_A,Ghost Unit,25,13,2,0.21,0,85,11.81
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,69946bbb-77b0-4d6d-b64e-89f80ced5b60,IronWill,Team_A,Ghost Unit,10,8,8,0.52,8,12,11.14
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,25b52523-e929-471d-8e19-536d8720adb8,TacticalTony,Team_A,Ghost Unit,15,5,6,0.47,6,61,10.73
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,6f27845c-1e95-4049-ba67-32cac0768bfb,BlazeOps,Team_B,Shadow Corps,17,12,10,0.26,7,28,9.05
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,3df99210-645c-406c-98a5-0ad21ce82ca0,StealthWolf,Team_B,Shadow Corps,18,13,5,0.28,6,61,11.69
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,952675f4-bee8-4fb2-9937-d8a28a3c7cc5,ShadowViper,Team_B,Shadow Corps,24,15,0,0.24,5,51,10.89
+31dfe6a4-b2ac-4ba4-8250-cd6dbc8d904a,7a040d2e-fe2d-4c46-a9c8-1020913a99f2,RogueAgent,Team_B,Shadow Corps,25,9,9,0.49,6,62,11.54
+591df96f-e8c5-4a06-b8ff-36dff15078fa,2f07d07c-d236-43b4-aaab-2baaa3e4b830,WraithX,Team_A,Iron Titans,16,14,9,0.29,0,75,10.18
+591df96f-e8c5-4a06-b8ff-36dff15078fa,38067792-3c0f-4ab2-8d4b-220affac568e,RogueAgent,Team_A,Iron Titans,18,11,7,0.51,3,91,10.96
+591df96f-e8c5-4a06-b8ff-36dff15078fa,7be85fcf-15eb-4abf-a4f9-bb6f6bfe245e,GhostReaper,Team_A,Iron Titans,21,13,1,0.54,0,20,10.29
+591df96f-e8c5-4a06-b8ff-36dff15078fa,89952620-6e39-49e0-8cdc-7851a0ac2b83,RogueAgent,Team_B,Shadow Corps,16,6,2,0.25,6,53,10.77
+591df96f-e8c5-4a06-b8ff-36dff15078fa,72f8a37a-69b4-4938-9bc3-b530d336ef55,IronWill,Team_B,Shadow Corps,20,9,0,0.54,10,4,11.33
+591df96f-e8c5-4a06-b8ff-36dff15078fa,3ec9fa09-76f5-46e2-bde0-ed338afa4a28,BulletStorm,Team_B,Shadow Corps,20,13,1,0.22,4,49,9.04
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,1f234a49-58d3-4b13-98ac-40541ccdb7a8,WraithX,Team_A,Bravo Squad,10,5,10,0.21,0,4,11.75
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,ea65704c-42e5-4c40-832e-3aaefd7dc88c,WraithX,Team_A,Bravo Squad,16,13,6,0.38,7,97,9.96
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,7f0ef12d-dcd8-4c69-8e07-aba3d1772ab1,ZeroMercy,Team_A,Bravo Squad,19,12,9,0.3,3,73,11.53
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,18594ef8-4352-4d56-8e02-2d449cd55c77,GhostReaper,Team_B,Night Stalkers,18,6,5,0.27,9,48,10.72
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,8266f2d3-1be6-4038-b8cf-6d726dc062cb,SilentScope,Team_B,Night Stalkers,12,13,0,0.28,5,37,9.33
+51ff40cb-ad08-466e-ad89-7c81ea9dae07,0dd4931c-dcd7-4489-800f-d736aa6d5031,IronWill,Team_B,Night Stalkers,18,15,10,0.48,1,13,9.53
+abbcf5d7-4075-424e-b037-aab9d33115b2,4343b152-af97-4ed3-9dc7-785f80339e02,NightCrawler,Team_A,Alpha Wolves,21,14,9,0.31,4,21,11.24
+abbcf5d7-4075-424e-b037-aab9d33115b2,8ed2bb2c-3468-44c9-a4c2-129b1f994a02,BulletStorm,Team_A,Alpha Wolves,19,6,7,0.49,9,79,9.94
+abbcf5d7-4075-424e-b037-aab9d33115b2,5f1442b6-5b14-4a24-96c3-234da7e16f6b,BulletStorm,Team_A,Alpha Wolves,11,15,3,0.28,8,69,11.31
+abbcf5d7-4075-424e-b037-aab9d33115b2,24cb87cd-4ac0-46ba-b38e-8ef5e295b922,WraithX,Team_A,Alpha Wolves,23,12,10,0.34,6,21,10.29
+abbcf5d7-4075-424e-b037-aab9d33115b2,f54a7413-77da-4d7e-8971-5e842c4f71e0,Maverick76,Team_A,Alpha Wolves,20,6,4,0.51,0,82,11.34
+abbcf5d7-4075-424e-b037-aab9d33115b2,f9d02feb-3ca7-4a5b-8efb-ab1becf76072,NightCrawler,Team_B,Ghost Unit,25,13,4,0.28,10,89,10.38
+abbcf5d7-4075-424e-b037-aab9d33115b2,096c65e0-cd45-40fb-ac4e-142f5e238adc,NightCrawler,Team_B,Ghost Unit,10,13,3,0.23,2,88,9.59
+abbcf5d7-4075-424e-b037-aab9d33115b2,2f765550-9a16-48e0-b9e2-d9f35a5f7991,BulletStorm,Team_B,Ghost Unit,16,15,7,0.42,0,23,11.05
+abbcf5d7-4075-424e-b037-aab9d33115b2,76e6f62d-a744-4ab4-ae44-9ce476e4c28a,VenomFang,Team_B,Ghost Unit,22,8,7,0.38,1,44,11.63
+abbcf5d7-4075-424e-b037-aab9d33115b2,43d15f86-f1c1-4f52-bab0-8e967129b69c,StealthWolf,Team_B,Ghost Unit,12,13,1,0.31,1,60,9.67
+0147e9a7-90ca-4fb5-b9c5-5c3b4cba235c,9236b5fd-1ba7-416f-98f1-6db6d098d4a5,RogueAgent,Team_A,RogueAgent_Solo,24,12,1,0.34,9,17,10.36
+0147e9a7-90ca-4fb5-b9c5-5c3b4cba235c,ed3885ad-ee01-4ea0-9064-3624498560e2,NovaBlitz,Team_B,NovaBlitz_Solo,14,5,2,0.51,8,56,9.18
+96a33678-0d70-46e3-9398-3be386e2dff8,696f31bb-6f21-4a0b-9e8b-bf8b5fc23dba,CrimsonHawk,Team_A,Iron Titans,15,8,6,0.44,0,48,9.04
+96a33678-0d70-46e3-9398-3be386e2dff8,f33ae678-c6ea-4320-b696-4809a53b5afd,WraithX,Team_A,Iron Titans,25,13,10,0.37,2,34,10.78
+96a33678-0d70-46e3-9398-3be386e2dff8,d690de59-8662-4b11-b9d9-299f7101b939,AceTrigger,Team_A,Iron Titans,25,15,5,0.53,7,8,10.13
+96a33678-0d70-46e3-9398-3be386e2dff8,c1345069-421b-4035-aabf-653be831724f,NightCrawler,Team_A,Iron Titans,22,9,4,0.4,5,12,10.24
+96a33678-0d70-46e3-9398-3be386e2dff8,04ce499d-62bc-43cf-b881-9ed7b509e3dc,StealthWolf,Team_B,Ghost Unit,20,8,5,0.36,7,92,11.3
+96a33678-0d70-46e3-9398-3be386e2dff8,7b1d5d95-072d-4185-93e8-4db1aeb8b8f1,StealthWolf,Team_B,Ghost Unit,19,15,8,0.48,2,41,11.47
+96a33678-0d70-46e3-9398-3be386e2dff8,3ae4a594-806a-4505-80fa-912d8804d709,IronWill,Team_B,Ghost Unit,23,15,0,0.5,1,66,10.81
+96a33678-0d70-46e3-9398-3be386e2dff8,3ebf32fe-f14f-48e9-90d7-ee8716ebbc91,CrimsonHawk,Team_B,Ghost Unit,13,6,6,0.49,7,31,9.94
+3be43b2b-c58f-4e07-8fd6-061f3caf4440,5d24b964-0f85-47b8-9169-1657b5a18f11,NovaBlitz,Team_A,NovaBlitz_Solo,21,6,6,0.31,7,4,10.28
+3be43b2b-c58f-4e07-8fd6-061f3caf4440,b5bda214-bd81-47dd-af3b-f035aa749018,CrimsonHawk,Team_B,CrimsonHawk_Solo,11,15,8,0.34,0,77,11.6
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,9ffb56eb-db53-4948-bcc1-29090a4f5f6f,TacticalTony,Team_A,Alpha Wolves,17,9,2,0.35,7,40,11.11
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,d2e7b643-57ca-42fe-8b33-80672dfc8f84,Maverick76,Team_A,Alpha Wolves,23,5,5,0.29,6,25,10.88
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,c6948350-270f-47a8-9db3-823ddb879270,ZeroMercy,Team_A,Alpha Wolves,16,13,9,0.4,5,17,9.73
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,b8ffd8bb-3960-4051-a306-54110b926485,EchoHunter,Team_A,Alpha Wolves,20,12,5,0.22,7,67,9.23
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,5545ce48-1625-454b-9daa-34e2f69f596f,IronWill,Team_A,Alpha Wolves,22,8,10,0.39,3,21,9.02
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,7d90bcbc-fb29-4816-95d9-9a572f5ee9ed,EchoHunter,Team_B,Red Hawks,14,12,8,0.23,10,49,9.33
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,55917493-99fa-45e4-b071-e824efc9b595,FrostByte,Team_B,Red Hawks,22,14,4,0.53,7,53,11.88
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,275840bc-864b-479f-b249-2c3307ec5f62,FrostByte,Team_B,Red Hawks,16,15,8,0.36,5,83,9.63
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,ec027ec2-08b3-45dc-9517-dbde23f2958d,EchoHunter,Team_B,Red Hawks,25,13,2,0.47,6,67,11.26
+c76159ae-0cf6-4ffc-b70c-5dee09281f4b,4bb135fd-d844-42ed-9061-4b0babc4d064,DeltaSniper,Team_B,Red Hawks,16,6,9,0.48,4,11,9.47
+c548a3b3-39ae-4258-a9de-8fbeb567958a,8c7743c1-1aee-485b-aa45-a8c4c24baced,FrostByte,Team_A,FrostByte_Solo,17,7,6,0.38,2,44,11.09
+c548a3b3-39ae-4258-a9de-8fbeb567958a,18657b10-4ca4-4dec-a39a-f247c26ee898,ZeroMercy,Team_B,ZeroMercy_Solo,18,6,5,0.52,5,35,10.08
+f90465b4-f473-4f3f-9b0e-6a1c46403493,f403b173-3ab6-41eb-9e21-8323107a76b5,RogueAgent,Team_A,Bravo Squad,17,6,3,0.29,5,51,9.01
+f90465b4-f473-4f3f-9b0e-6a1c46403493,a1469074-4cd5-49b1-b4a9-403e9cc891ec,ZeroMercy,Team_A,Bravo Squad,10,8,2,0.52,6,60,9.48
+f90465b4-f473-4f3f-9b0e-6a1c46403493,9030b133-6c2d-45d3-b441-cee09170bf3f,NightCrawler,Team_A,Bravo Squad,20,15,4,0.31,7,74,10.84
+f90465b4-f473-4f3f-9b0e-6a1c46403493,87eb0b76-5095-4c08-bb3b-340868e8e62a,NovaBlitz,Team_A,Bravo Squad,22,10,8,0.36,9,91,10.28
+f90465b4-f473-4f3f-9b0e-6a1c46403493,b47b8566-2427-4518-b789-ed67cb4ec135,BlazeOps,Team_A,Bravo Squad,14,6,5,0.27,0,67,11.34
+f90465b4-f473-4f3f-9b0e-6a1c46403493,668cff78-c890-48ed-9de9-abf2706d3de5,BlazeOps,Team_B,Red Hawks,15,13,6,0.34,4,80,10.61
+f90465b4-f473-4f3f-9b0e-6a1c46403493,f4c3174f-b31b-4c40-a0d1-51c8c987693a,NightCrawler,Team_B,Red Hawks,19,12,8,0.34,8,22,11.06
+f90465b4-f473-4f3f-9b0e-6a1c46403493,f42bd6cc-58d7-4b85-8e58-82bbd1479c93,NightCrawler,Team_B,Red Hawks,10,14,7,0.26,2,66,10.08
+f90465b4-f473-4f3f-9b0e-6a1c46403493,2f447bb3-61f3-4c4e-9a08-766e30068e33,AceTrigger,Team_B,Red Hawks,19,11,3,0.36,6,26,11.63
+f90465b4-f473-4f3f-9b0e-6a1c46403493,4baae7b6-7db6-416a-a3b6-d426d47378da,TacticalTony,Team_B,Red Hawks,22,8,4,0.29,6,5,11.56
+77fad853-47d1-4d83-8a7b-9a2ba7aafbc4,8bedeea6-7346-4869-94a6-c540940510a3,IronWill,Team_A,Alpha Wolves,10,8,6,0.53,4,77,11.1
+77fad853-47d1-4d83-8a7b-9a2ba7aafbc4,9d74aff6-bb6e-402c-85b7-5a45abce864d,GhostReaper,Team_A,Alpha Wolves,19,15,10,0.37,1,55,10.71
+77fad853-47d1-4d83-8a7b-9a2ba7aafbc4,3902813c-116d-4922-9f97-0242bc07bbd6,ZeroMercy,Team_B,Shadow Corps,18,15,10,0.45,0,29,11.58
+77fad853-47d1-4d83-8a7b-9a2ba7aafbc4,dec67add-32c5-4e3c-9788-dfd17d9878b4,DeltaSniper,Team_B,Shadow Corps,11,6,6,0.34,6,22,9.7
+fe463b72-b7c8-4f48-8900-16bf16e2af2c,2f80a375-43fb-407e-9977-4b3cf5c55e50,IronWill,Team_A,IronWill_Solo,18,10,4,0.49,0,68,9.92
+fe463b72-b7c8-4f48-8900-16bf16e2af2c,65d2bb4f-6501-4ab6-a751-b7029d302d00,RogueAgent,Team_B,RogueAgent_Solo,24,14,6,0.52,2,20,11.56
+9e1c9b46-259a-479a-a91b-f79e51f93ac0,75845a71-14a7-45b2-92df-898da50396cf,CrimsonHawk,Team_A,CrimsonHawk_Solo,12,6,8,0.42,6,10,10.53
+9e1c9b46-259a-479a-a91b-f79e51f93ac0,05b0cd78-573b-4e71-ac45-c870b009c70b,GhostReaper,Team_B,GhostReaper_Solo,22,11,0,0.46,2,49,11.22
+08ea45e4-411b-4e62-b7ca-133bd63305ee,8b8adec7-3cc7-4eab-a49a-9384b3ceb86c,StealthWolf,Team_A,StealthWolf_Solo,23,14,4,0.21,9,84,9.31
+08ea45e4-411b-4e62-b7ca-133bd63305ee,58fbeaf5-b2c0-42b8-acad-f1149ffed076,RogueAgent,Team_B,RogueAgent_Solo,16,13,6,0.49,2,39,10.87
+4213090f-eaf5-4045-8494-d5476388d303,58e99698-44b4-41b5-8bfe-46f3e0596e6f,BlazeOps,Team_A,BlazeOps_Solo,22,15,5,0.37,7,28,10.63
+4213090f-eaf5-4045-8494-d5476388d303,c75a01df-6c51-4253-8b0c-bb00241ce830,IronWill,Team_B,IronWill_Solo,12,11,10,0.32,4,19,11.62
+c936fcec-2269-4e81-84ad-720c9361e7a8,b2e05900-b463-4840-ba86-ffa0796806eb,Maverick76,Team_A,Maverick76_Solo,16,10,0,0.29,7,9,9.76
+c936fcec-2269-4e81-84ad-720c9361e7a8,2bba8e91-b390-430d-bcdc-38e279c42d31,TacticalTony,Team_B,TacticalTony_Solo,10,15,8,0.36,5,3,9.51
+cb71967d-a252-4fc6-b526-98fc3103a0a4,dfd4f6e4-6403-49d5-890a-f3a3ad6314b6,CrimsonHawk,Team_A,CrimsonHawk_Solo,10,11,8,0.35,5,29,9.28
+cb71967d-a252-4fc6-b526-98fc3103a0a4,89d0d20b-ed86-4ba8-923e-1b976c0e3afb,ZeroMercy,Team_B,ZeroMercy_Solo,16,6,7,0.37,9,97,9.24
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,8f9be3e9-7f87-4a56-b7b8-01cfecb41468,TacticalTony,Team_A,Alpha Wolves,15,14,2,0.52,4,96,11.6
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,dcc396ad-059e-4e94-b4d2-18555640849b,BulletStorm,Team_A,Alpha Wolves,15,7,8,0.2,10,70,11.35
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,21cf7c57-0998-4dc1-95df-d88ead39e5d2,TacticalTony,Team_A,Alpha Wolves,21,15,10,0.26,5,17,10.53
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,b0222983-e1d1-43f8-b2b0-70cee0a3d828,DeltaSniper,Team_B,Night Stalkers,24,11,2,0.39,6,77,9.36
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,95aa8617-f3f0-4ab7-b13d-56717195f652,BlazeOps,Team_B,Night Stalkers,15,10,0,0.54,7,94,11.55
+c03c2d0a-8182-4cf9-9e54-b02a49a642f9,38583fb2-3546-4f03-9790-a1d4d4de1874,ZeroMercy,Team_B,Night Stalkers,14,9,3,0.46,9,37,10.8
+e8dcbfb6-d648-4836-916e-a0b7f6a3452a,ddbcd4f4-b3c6-4b6d-92c7-951966717522,FrostByte,Team_A,Night Stalkers,21,5,4,0.46,9,50,9.51
+e8dcbfb6-d648-4836-916e-a0b7f6a3452a,d1774be8-c646-45f1-b767-133701237a03,IronWill,Team_A,Night Stalkers,17,13,4,0.28,0,97,11.88
+e8dcbfb6-d648-4836-916e-a0b7f6a3452a,b539c2e1-35e7-4eba-892f-e723f5d2ad64,ZeroMercy,Team_B,Alpha Wolves,25,15,9,0.34,9,75,9.77
+e8dcbfb6-d648-4836-916e-a0b7f6a3452a,ad458c89-a984-409e-bb15-62b66a339cb7,EchoHunter,Team_B,Alpha Wolves,14,13,0,0.47,3,28,11.21
+a23f47f0-15fa-42d2-aed0-3a8b1c970ff8,1efbda1b-652e-4b11-b573-e45f9c75286a,Maverick76,Team_A,Maverick76_Solo,23,15,8,0.29,6,83,9.29
+a23f47f0-15fa-42d2-aed0-3a8b1c970ff8,159711ec-643b-417b-95e1-5a0581794b8f,ZeroMercy,Team_B,ZeroMercy_Solo,14,14,0,0.43,5,7,10.55
+4e93722c-22aa-4cad-bbf2-d2834dd953ca,c39e95d4-b08b-46b1-b0d8-275cd525a604,EchoHunter,Team_A,EchoHunter_Solo,25,15,5,0.24,1,71,10.75
+4e93722c-22aa-4cad-bbf2-d2834dd953ca,c758fc65-b81e-42e4-ab31-695a08c0f862,IronWill,Team_B,IronWill_Solo,16,12,9,0.37,0,61,9.31
+ef5175d0-ac76-4b40-809d-29c349a9611e,6c9ba564-389a-494c-a7a4-d8caa496a812,ZeroMercy,Team_A,Shadow Corps,13,6,4,0.37,0,3,10.45
+ef5175d0-ac76-4b40-809d-29c349a9611e,7ee9200b-1097-428f-87c4-5a56acb8514d,NightCrawler,Team_A,Shadow Corps,18,10,8,0.34,4,67,11.04
+ef5175d0-ac76-4b40-809d-29c349a9611e,82210585-3416-4771-844d-6da283685f6f,VenomFang,Team_A,Shadow Corps,20,15,7,0.53,4,99,11.26
+ef5175d0-ac76-4b40-809d-29c349a9611e,d44a1ab3-870f-4dbe-a2fa-c93fae9f619b,EchoHunter,Team_B,Bravo Squad,22,11,2,0.33,3,50,9.01
+ef5175d0-ac76-4b40-809d-29c349a9611e,bb3cf705-e2cb-453b-82d2-1d0ad4553770,VenomFang,Team_B,Bravo Squad,11,9,4,0.5,1,18,11.38
+ef5175d0-ac76-4b40-809d-29c349a9611e,306a5b5f-d3ce-4565-bf31-33f1d8f8aaff,ShadowViper,Team_B,Bravo Squad,13,13,9,0.2,3,64,10.31
+e0c3119d-903f-43d6-a7ef-b41b06388755,a9eafacd-9643-4b01-8e62-19cb7bd8e92c,IronWill,Team_A,Night Stalkers,19,5,5,0.31,1,51,10.74
+e0c3119d-903f-43d6-a7ef-b41b06388755,20100922-414a-474c-b164-db02285a3225,ShadowViper,Team_A,Night Stalkers,14,11,7,0.41,7,47,11.13
+e0c3119d-903f-43d6-a7ef-b41b06388755,a00526e9-88ec-45a2-9321-4918f38e954e,IronWill,Team_A,Night Stalkers,23,11,0,0.4,3,85,11.84
+e0c3119d-903f-43d6-a7ef-b41b06388755,34caa814-27be-46c4-8ef8-d56c35c31648,DeltaSniper,Team_B,Night Stalkers,23,8,7,0.34,5,19,10.57
+e0c3119d-903f-43d6-a7ef-b41b06388755,983a9f63-eec8-40dd-a432-7fc6def90a3f,EchoHunter,Team_B,Night Stalkers,12,8,4,0.32,2,78,10.46
+e0c3119d-903f-43d6-a7ef-b41b06388755,c50b3b36-d3ea-45a0-837d-efcfb1b5aa26,Maverick76,Team_B,Night Stalkers,17,14,9,0.28,5,30,9.63
+80d4f656-d206-4903-a147-cab53713e867,4d65cffb-9ce6-4e8b-99e5-20456749d980,VenomFang,Team_A,Alpha Wolves,11,13,3,0.43,2,76,11.95
+80d4f656-d206-4903-a147-cab53713e867,59b336c6-2d80-4e7f-abc7-12668b06321d,NovaBlitz,Team_A,Alpha Wolves,24,8,1,0.3,1,32,11.6
+80d4f656-d206-4903-a147-cab53713e867,3fe45e34-47cb-40c3-9782-89e52cdb25ec,AceTrigger,Team_B,Alpha Wolves,25,9,7,0.36,3,86,9.99
+80d4f656-d206-4903-a147-cab53713e867,ea138489-162f-4b6f-9004-b0dc40ab8625,WraithX,Team_B,Alpha Wolves,24,5,9,0.3,0,73,10.77
+ed43b39a-2c90-4508-b38a-0ad67446a05e,55263003-0287-4ea3-834a-98e9f3f389f5,WraithX,Team_A,WraithX_Solo,12,14,6,0.31,5,73,11.47
+ed43b39a-2c90-4508-b38a-0ad67446a05e,e7b6b73a-d01a-4f1c-9aa0-88ecf8d5a9d7,SilentScope,Team_B,SilentScope_Solo,24,8,0,0.41,10,25,9.28
+d2c2ae13-3177-4cad-a0e8-161974c3c032,c78c06cf-ea3f-4775-bd45-47b5d94a820e,EchoHunter,Team_A,EchoHunter_Solo,10,10,6,0.36,8,93,11.73
+d2c2ae13-3177-4cad-a0e8-161974c3c032,0df6be09-c277-4395-bd6b-d9748ca7f3ce,BulletStorm,Team_B,BulletStorm_Solo,13,5,4,0.38,1,90,11.24
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,c77a15ea-e81b-45e8-a545-0cb739d0a335,EchoHunter,Team_A,Shadow Corps,16,5,2,0.37,1,87,11.14
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,0b2ab4f6-53cd-4e0f-8521-1377714e1c9f,Maverick76,Team_A,Shadow Corps,24,15,6,0.36,9,75,9.21
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,81860d6f-defc-4797-8f2f-def907e74531,DeltaSniper,Team_A,Shadow Corps,22,10,6,0.38,3,39,9.54
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,8cb6aeaa-6ba2-477d-b0dd-62aaf39cab25,TacticalTony,Team_B,Bravo Squad,13,5,7,0.29,8,91,11.58
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,3fbd1bdc-38dd-4a54-a582-540e570b5047,BlazeOps,Team_B,Bravo Squad,24,6,7,0.53,2,70,10.16
+ddbb676a-8a43-40d8-85de-b4518fb8cd1a,c5ec469c-53e4-4bd7-be06-cec23bd27c5d,TacticalTony,Team_B,Bravo Squad,14,14,7,0.49,8,79,9.5
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,26,5,9,0.59,1,79,10.11
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,2687eeb5-22b7-49fa-8d0c-10e04dcc845f,VenomFang,Team_A,Bravo Squad,10,15,5,0.39,10,71,9.3
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,4f0f61c9-6d72-470c-a49d-867435186dda,RogueAgent,Team_A,Bravo Squad,21,8,4,0.36,3,58,9.68
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,0fa5a591-2fe4-46fa-8616-9ee234d9def6,BlazeOps,Team_A,Bravo Squad,16,6,6,0.39,7,2,10.11
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,94d73478-9b60-41ce-a5ba-8982d558fdaa,SilentScope,Team_A,Bravo Squad,13,11,4,0.46,8,90,11.5
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,36794b5b-b83d-4c31-affc-03e4dd9ed6c5,DeltaSniper,Team_B,Iron Titans,18,9,4,0.2,0,100,9.18
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,43b08b3c-69ae-40cc-a86a-6c1685b20e1b,WraithX,Team_B,Iron Titans,21,11,1,0.22,0,93,9.72
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,c5874c67-86fd-4f8e-a807-211136942fb9,BlazeOps,Team_B,Iron Titans,19,5,7,0.36,2,74,11.98
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,f923b963-6ff4-4773-a6a4-c13cd650d268,BlazeOps,Team_B,Iron Titans,15,7,5,0.46,4,19,10.51
+3482dbfd-92d9-4ffd-8bdd-a983669271d1,5183bbb8-be32-4a23-b975-04ce57ee4782,WraithX,Team_B,Iron Titans,16,9,7,0.29,9,94,10.77
+cefadf25-c93b-451c-a9ee-0a933dedfadc,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,23,5,6,0.55,10,41,11.58
+cefadf25-c93b-451c-a9ee-0a933dedfadc,ef935fec-d559-4c01-9c62-ad7228d00ea5,EchoHunter,Team_A,Ghost Unit,24,10,8,0.38,10,93,11.51
+cefadf25-c93b-451c-a9ee-0a933dedfadc,81f439df-249d-4501-a1a2-0a73630c3844,ZeroMercy,Team_A,Ghost Unit,25,6,5,0.52,3,75,11.52
+cefadf25-c93b-451c-a9ee-0a933dedfadc,c6517b4e-6b97-4582-aab7-6407e3554d60,IronWill,Team_B,Night Stalkers,21,15,6,0.45,7,58,9.17
+cefadf25-c93b-451c-a9ee-0a933dedfadc,d4a317d0-6d42-41a8-bec5-f52b1199c966,DeltaSniper,Team_B,Night Stalkers,20,8,10,0.45,1,60,9.01
+cefadf25-c93b-451c-a9ee-0a933dedfadc,55d4006c-8a4f-4791-be66-2b37935ba5b7,StealthWolf,Team_B,Night Stalkers,17,5,2,0.29,5,48,11.89
+b5fe8e88-4ab1-44ed-8673-f9560b8ddf22,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,2,1,0.58,6,87,10.77
+b5fe8e88-4ab1-44ed-8673-f9560b8ddf22,d840c43e-0cf7-4f63-8cd8-df40689790e5,VenomFang,Team_B,VenomFang_Solo,25,12,0,0.32,7,14,10.44
+4d4473cb-6990-4f66-88b4-d5aecbe82ba9,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,25,3,7,0.47,1,56,10.63
+4d4473cb-6990-4f66-88b4-d5aecbe82ba9,32a93e8e-4874-4f71-b40e-cfc64f6f6cff,BlazeOps,Team_B,BlazeOps_Solo,16,10,4,0.2,2,89,11.62
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,27,6,1,0.47,7,92,9.85
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,3c899f5f-7612-4c3d-97b2-02653c048d2e,BlazeOps,Team_A,Alpha Wolves,24,11,7,0.25,0,18,11.59
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,dff783e8-d46d-40de-a765-bd5ce004f3da,CrimsonHawk,Team_A,Alpha Wolves,19,8,3,0.53,9,8,10.19
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,2ad0abda-1d8e-4e08-9c2d-40ddfe3eba2c,RogueAgent,Team_A,Alpha Wolves,19,11,5,0.3,6,6,10.45
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,8a5dd183-a275-4dcb-a821-1b323c95e9e9,StealthWolf,Team_A,Alpha Wolves,22,12,10,0.55,0,87,10.54
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,896f2201-731a-4299-840f-a9078c4caa83,NightCrawler,Team_B,Bravo Squad,23,14,1,0.21,5,90,11.08
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,b47dc16c-e1c1-40ad-8e54-18f3caa3beef,CrimsonHawk,Team_B,Bravo Squad,11,15,1,0.48,3,32,10.18
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,7fd64a61-55c7-482d-80d5-8789cecdba39,ShadowViper,Team_B,Bravo Squad,25,8,10,0.23,0,91,9.41
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,70920fc1-eebc-45ac-8d9e-947945686a97,BlazeOps,Team_B,Bravo Squad,22,12,4,0.35,10,0,11.91
+145f31f4-be7c-4cd4-8fd1-315507c5e1dd,377f2729-e32f-4dce-8807-1fd2f541a95c,RogueAgent,Team_B,Bravo Squad,17,15,10,0.26,1,88,9.47
+9fc584a6-57b7-4048-b9ca-dcc8767f2c3d,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,29,4,2,0.59,8,95,10.76
+9fc584a6-57b7-4048-b9ca-dcc8767f2c3d,c227518c-3910-44ae-bf21-25974748bf2c,BlazeOps,Team_B,BlazeOps_Solo,12,12,8,0.39,1,30,9.04
+fe8229c3-7c7e-4000-aa14-aa0e21604f70,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,2,2,0.51,1,28,11.2
+fe8229c3-7c7e-4000-aa14-aa0e21604f70,c5bb151a-021e-4bbd-9f60-601d45c48fe8,VenomFang,Team_B,VenomFang_Solo,24,13,8,0.47,6,37,11.74
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,28,3,5,0.49,10,46,10.28
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,448ffe10-2087-4929-a139-f4d9635bae1a,SilentScope,Team_A,Red Hawks,10,10,5,0.54,0,71,9.47
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,a3706a35-3e37-4b35-9b7f-bb3912861b3b,VenomFang,Team_A,Red Hawks,25,9,3,0.3,5,86,9.38
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,5ed2a880-6da9-499a-968c-c32e514ebfbd,BulletStorm,Team_B,Shadow Corps,23,15,8,0.26,6,76,11.8
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,d60bf85e-593e-485a-8d56-2a2c11f5cdc1,IronWill,Team_B,Shadow Corps,22,8,6,0.31,10,23,9.07
+9159a041-a5a0-492c-8ac3-b316ddeb9a97,9a451371-39b4-4e87-8454-66f641c695e3,RogueAgent,Team_B,Shadow Corps,21,6,9,0.33,7,88,10.45
+a3eba035-af4c-41c5-95e5-340581099152,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,29,3,4,0.44,9,42,11.05
+a3eba035-af4c-41c5-95e5-340581099152,0c3e5acd-636a-46b6-83ea-e1f3e67efbb7,NightCrawler,Team_B,NightCrawler_Solo,12,7,4,0.36,5,67,9.59
+cdf44978-a9df-4724-ae74-30ebf4320531,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,2,3,0.46,4,53,10.17
+cdf44978-a9df-4724-ae74-30ebf4320531,77c6ce37-fb5d-49ff-9649-02d4fc75b1f0,TacticalTony,Team_B,TacticalTony_Solo,22,9,2,0.44,6,98,9.23
+29f01e39-9cbd-4888-bb75-a96bc1c73ae9,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,25,2,7,0.44,0,94,11.58
+29f01e39-9cbd-4888-bb75-a96bc1c73ae9,48b5f913-0e59-40af-aa90-d2e56c69cc5d,Maverick76,Team_A,Night Stalkers,13,5,1,0.24,2,74,10.58
+29f01e39-9cbd-4888-bb75-a96bc1c73ae9,98bd71fa-e751-495c-87ac-4689494d99f6,WraithX,Team_B,Red Hawks,12,14,8,0.4,9,84,9.82
+29f01e39-9cbd-4888-bb75-a96bc1c73ae9,f341a248-f55e-4bd8-a241-b26b10908cb7,EchoHunter,Team_B,Red Hawks,17,12,8,0.47,10,97,11.85
+16540ace-e8b5-49ba-ab9f-388050e544b2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,5,7,0.53,9,31,9.89
+16540ace-e8b5-49ba-ab9f-388050e544b2,eb746c44-5d0d-4b2a-9136-a7eb0908f046,ShadowViper,Team_B,ShadowViper_Solo,10,13,8,0.5,9,77,9.97
+ab0ba12e-d24d-45fa-a182-c58fa36d141d,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,27,6,8,0.43,1,34,10.33
+ab0ba12e-d24d-45fa-a182-c58fa36d141d,58a19d9c-38f2-4b9a-8734-a0981654949e,ShadowViper,Team_B,ShadowViper_Solo,16,8,5,0.3,0,70,11.52
+59e35e8e-59e2-47dc-8722-6d689781b0aa,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,29,6,3,0.51,5,82,9.68
+59e35e8e-59e2-47dc-8722-6d689781b0aa,4cb46f41-c4b2-4792-ac03-3ec145a25218,Maverick76,Team_B,Maverick76_Solo,23,14,1,0.41,3,8,10.9
+c325d46c-02e3-4996-afa6-7e0150bd6e84,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,26,2,1,0.54,2,37,11.91
+c325d46c-02e3-4996-afa6-7e0150bd6e84,3fb659f5-7fc7-4275-b0c8-2f043dcf4703,BlazeOps,Team_A,Bravo Squad,24,11,1,0.47,2,90,9.43
+c325d46c-02e3-4996-afa6-7e0150bd6e84,a64bbe43-5074-40c5-bc77-a4fe04ab2493,CrimsonHawk,Team_A,Bravo Squad,16,11,4,0.47,9,65,9.15
+c325d46c-02e3-4996-afa6-7e0150bd6e84,7779f3e9-158d-4ae5-8034-b2cc1cd5d5f6,NovaBlitz,Team_A,Bravo Squad,18,14,9,0.52,1,22,11.17
+c325d46c-02e3-4996-afa6-7e0150bd6e84,6b5250a3-4e1c-451f-9412-921aa737bcad,VenomFang,Team_B,Iron Titans,10,14,1,0.25,4,95,9.73
+c325d46c-02e3-4996-afa6-7e0150bd6e84,a562ee7c-c582-4dbe-8518-66c13631ecf4,BlazeOps,Team_B,Iron Titans,21,11,1,0.54,6,50,10.06
+c325d46c-02e3-4996-afa6-7e0150bd6e84,470fccf3-c8c0-4e9e-8e93-f45489f8ae82,CrimsonHawk,Team_B,Iron Titans,25,13,4,0.42,9,79,9.63
+c325d46c-02e3-4996-afa6-7e0150bd6e84,006ae6fb-cacb-4c0e-8747-4be4e831a87a,CrimsonHawk,Team_B,Iron Titans,11,9,10,0.28,6,37,10.5
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,27,5,9,0.44,5,24,9.9
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,ca86646e-d543-4fad-8a96-567f078ab8af,IronWill,Team_A,Iron Titans,14,8,4,0.21,8,62,11.99
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,439526f8-83a3-413a-bf86-7a2556b8192c,VenomFang,Team_A,Iron Titans,18,6,3,0.52,10,72,10.24
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,90671f36-6e61-407f-ac17-0d31383be0fe,CrimsonHawk,Team_A,Iron Titans,21,12,1,0.29,8,95,10.63
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,ac7fb5fa-7f32-47de-b81e-39ed81c788a3,ShadowViper,Team_B,Iron Titans,20,13,0,0.27,8,28,9.74
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,8e19cf92-deb7-428e-b035-77fa7573ebfb,CrimsonHawk,Team_B,Iron Titans,18,15,2,0.49,10,81,9.84
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,c4d41869-d9d3-4682-ac74-1dfc3b953f59,SilentScope,Team_B,Iron Titans,21,14,9,0.39,2,1,10.53
+1ff28bbb-4dd8-41e0-9e36-b584f792fcd8,48c93b64-7822-489c-87d3-185060266d27,BlazeOps,Team_B,Iron Titans,22,10,5,0.33,10,76,9.59
+e0e5e225-52bf-4251-bedd-60b59a93fbe2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,24,2,1,0.44,2,60,11.48
+e0e5e225-52bf-4251-bedd-60b59a93fbe2,c5be022f-e769-494c-bc1a-ddb7313a316b,RogueAgent,Team_A,Shadow Corps,17,9,9,0.24,5,43,9.62
+e0e5e225-52bf-4251-bedd-60b59a93fbe2,459acec8-15a7-44a6-99bc-442f2256c2c8,SilentScope,Team_B,Shadow Corps,11,7,2,0.52,8,2,11.35
+e0e5e225-52bf-4251-bedd-60b59a93fbe2,ad09c707-97ab-4c84-a8f3-2aff1bb32d72,TacticalTony,Team_B,Shadow Corps,24,12,6,0.23,2,72,11.92
+62ec6e52-b68f-4a2f-8ac5-a66249e9df77,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,20,4,4,0.44,7,28,10.14
+62ec6e52-b68f-4a2f-8ac5-a66249e9df77,9557e0c5-64c9-4f31-873f-8f50b3541ff8,CrimsonHawk,Team_B,CrimsonHawk_Solo,16,9,10,0.23,4,89,11.64
+d322e054-9f41-4dc8-ab12-1f65a1ec84c3,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,30,3,1,0.49,8,55,11.73
+d322e054-9f41-4dc8-ab12-1f65a1ec84c3,045f0395-0a7c-45ce-8e53-c3d7be1febe7,BlazeOps,Team_B,BlazeOps_Solo,24,14,6,0.42,10,62,11.67
+ec8a7b28-0404-42df-91cb-424305f4e8e2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,28,2,0,0.5,1,10,10.44
+ec8a7b28-0404-42df-91cb-424305f4e8e2,e9afa36a-54ef-4ea6-88a8-ba106a4ec43c,GhostReaper,Team_B,GhostReaper_Solo,19,5,3,0.39,7,71,10.53
+f9ac6cf3-7a26-4c32-97cd-b5d08e8534c0,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,25,2,7,0.4,9,96,10.53
+f9ac6cf3-7a26-4c32-97cd-b5d08e8534c0,28d68ef1-67dd-4965-9cae-070d8367215e,CrimsonHawk,Team_B,CrimsonHawk_Solo,17,8,4,0.5,2,17,11.24
+b664d510-ae10-4d23-9f90-3dba09ac14ce,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,21,6,7,0.57,7,57,10.66
+b664d510-ae10-4d23-9f90-3dba09ac14ce,9299044b-f568-404c-9723-267ee5dd91de,FrostByte,Team_A,Red Hawks,24,12,5,0.29,0,21,10.34
+b664d510-ae10-4d23-9f90-3dba09ac14ce,bdf78a7a-0b94-4919-ace7-6e5990dbdc6d,DeltaSniper,Team_A,Red Hawks,21,7,4,0.23,8,39,11.81
+b664d510-ae10-4d23-9f90-3dba09ac14ce,7b10d72e-8d2c-4b2e-8a38-b38b03b1b847,BlazeOps,Team_A,Red Hawks,11,8,3,0.45,9,50,9.57
+b664d510-ae10-4d23-9f90-3dba09ac14ce,7affe3ee-cb88-4143-b980-ea28913739a2,NovaBlitz,Team_A,Red Hawks,25,13,2,0.49,0,97,11.62
+b664d510-ae10-4d23-9f90-3dba09ac14ce,b333652a-3c9e-4ba0-8f60-c8f9b8edcb33,StealthWolf,Team_B,Bravo Squad,24,10,9,0.52,8,31,10.88
+b664d510-ae10-4d23-9f90-3dba09ac14ce,291a9efd-ca80-4801-b8fc-87dfb8a24f9c,CrimsonHawk,Team_B,Bravo Squad,19,12,6,0.46,9,89,9.17
+b664d510-ae10-4d23-9f90-3dba09ac14ce,fcc7b687-3511-4374-9028-c4c383eda2d0,ZeroMercy,Team_B,Bravo Squad,15,13,10,0.32,0,19,9.39
+b664d510-ae10-4d23-9f90-3dba09ac14ce,241117c0-8e26-4b6d-b13e-7890daf2671d,RogueAgent,Team_B,Bravo Squad,19,11,10,0.23,10,60,10.26
+b664d510-ae10-4d23-9f90-3dba09ac14ce,d3f3742f-deba-4a7b-b915-22bc538b6878,BulletStorm,Team_B,Bravo Squad,19,11,7,0.46,8,85,10.34
+c53ca5f8-762d-4f18-bee9-cec6f7951d31,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,20,5,6,0.57,1,28,11.37
+c53ca5f8-762d-4f18-bee9-cec6f7951d31,c6110cad-361e-4456-a6f0-99eaa4889576,BulletStorm,Team_B,BulletStorm_Solo,20,14,5,0.45,9,17,11.34
+a3efdb4c-3a8f-46d3-8a36-32b581d7ba23,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,23,6,7,0.56,2,29,11.2
+a3efdb4c-3a8f-46d3-8a36-32b581d7ba23,209ecc37-9b14-41e9-9ca1-0236cf6123b5,RogueAgent,Team_B,RogueAgent_Solo,11,6,7,0.42,7,73,10.38
+303aed40-3608-47c8-a749-2683a33a18a5,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,23,3,4,0.52,9,79,9.58
+303aed40-3608-47c8-a749-2683a33a18a5,5fa389f0-2976-4143-8e14-4d48ae356007,SilentScope,Team_A,Alpha Wolves,24,14,10,0.23,10,19,10.44
+303aed40-3608-47c8-a749-2683a33a18a5,ad150383-ace9-4a5f-8473-d2a180ee6896,IronWill,Team_A,Alpha Wolves,10,5,0,0.39,0,12,10.93
+303aed40-3608-47c8-a749-2683a33a18a5,a89d8a21-e3e0-4cda-aa4b-9e1461a1ec8c,EchoHunter,Team_A,Alpha Wolves,15,13,9,0.49,0,50,11
+303aed40-3608-47c8-a749-2683a33a18a5,6db9689a-efa1-47c0-add9-ecb4e8b6fca9,FrostByte,Team_B,Red Hawks,20,6,5,0.31,1,32,9.97
+303aed40-3608-47c8-a749-2683a33a18a5,c57fcc8c-726e-4e01-a7cb-f7ec8db16f81,BulletStorm,Team_B,Red Hawks,11,14,10,0.44,10,1,10.34
+303aed40-3608-47c8-a749-2683a33a18a5,f4f1c670-939e-4aa0-b737-0167be9c8496,Maverick76,Team_B,Red Hawks,10,5,5,0.45,8,88,10.89
+303aed40-3608-47c8-a749-2683a33a18a5,df86bdeb-7763-4a51-96f6-1315478aece3,SilentScope,Team_B,Red Hawks,15,9,10,0.25,10,37,9.52
+57e25c7b-e363-4d00-bae4-5f92d69ff4ee,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,30,5,2,0.56,9,38,10.97
+57e25c7b-e363-4d00-bae4-5f92d69ff4ee,2bebc249-3738-439c-a731-88b27c6cd8b0,Maverick76,Team_B,Maverick76_Solo,16,5,7,0.53,1,75,10.04
+1c78bea0-c965-4f82-b378-fa33dffb2b44,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,22,4,5,0.58,3,55,9.66
+1c78bea0-c965-4f82-b378-fa33dffb2b44,3cd57ac6-1b95-4660-adb5-72bcab0405ec,WraithX,Team_A,Ghost Unit,21,15,7,0.36,3,32,10.45
+1c78bea0-c965-4f82-b378-fa33dffb2b44,6c1b366b-c7bb-4915-9197-4ff83e516d9d,IronWill,Team_A,Ghost Unit,22,10,0,0.39,3,85,10.45
+1c78bea0-c965-4f82-b378-fa33dffb2b44,dcb0e2d0-4d8a-4ce0-990c-154a29166be4,TacticalTony,Team_B,Red Hawks,10,9,9,0.45,1,32,10.77
+1c78bea0-c965-4f82-b378-fa33dffb2b44,b845a9e9-ec24-405a-8353-83845907d433,ShadowViper,Team_B,Red Hawks,25,12,10,0.23,2,65,11.69
+1c78bea0-c965-4f82-b378-fa33dffb2b44,0261f86c-30ca-480d-aa3a-4024088370cc,ShadowViper,Team_B,Red Hawks,23,6,9,0.53,0,61,11.97
+54e5535d-db9c-4c5d-88d7-dbf48c60e3e7,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,4,9,0.49,7,85,10.41
+54e5535d-db9c-4c5d-88d7-dbf48c60e3e7,da491eac-ea1d-4c28-8cbf-bb2ee19871aa,EchoHunter,Team_B,EchoHunter_Solo,25,7,1,0.48,7,15,11.69
+ff99d98b-636c-4ca9-9ca9-dec533370c98,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,27,4,6,0.5,8,84,10.03
+ff99d98b-636c-4ca9-9ca9-dec533370c98,403e56ec-aedb-49f9-8412-756cd267515d,ZeroMercy,Team_B,ZeroMercy_Solo,11,8,6,0.25,9,47,11.27
+a31d4c24-62c7-4449-ac5a-48be713370da,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,22,6,6,0.41,7,26,9.53
+a31d4c24-62c7-4449-ac5a-48be713370da,3e2b7636-c8c5-4d62-8eb9-2c84b7afa248,RogueAgent,Team_B,RogueAgent_Solo,10,12,0,0.54,10,63,11.28
+92337fed-4d27-4b9a-83be-0ddc0a90ed0e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,30,5,6,0.53,10,9,11.39
+92337fed-4d27-4b9a-83be-0ddc0a90ed0e,4b7babe6-3adb-4370-b1b2-a40a6a93b397,FrostByte,Team_A,Alpha Wolves,22,6,9,0.29,3,84,11.09
+92337fed-4d27-4b9a-83be-0ddc0a90ed0e,83f60b67-9f02-4a0b-ad6e-72995289e4b3,VenomFang,Team_B,Bravo Squad,17,6,7,0.47,5,50,10.18
+92337fed-4d27-4b9a-83be-0ddc0a90ed0e,8deb0e12-7eee-4af4-90dd-3fe005fecf09,StealthWolf,Team_B,Bravo Squad,18,8,9,0.4,5,8,11.29
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,25,5,6,0.41,2,91,11.72
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,94ad8cd5-2cb2-4c3c-881c-c7ef7300c5cf,DeltaSniper,Team_A,Shadow Corps,11,10,0,0.44,7,65,10.17
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,42a8081a-b68f-4ec1-8268-81ab9b5fa3ca,WraithX,Team_A,Shadow Corps,11,9,1,0.49,3,94,10.5
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,2346870e-f386-4dfe-b94e-2a32e2c16452,CrimsonHawk,Team_B,Shadow Corps,16,12,10,0.46,3,77,11.98
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,35816f1c-1b0b-4ea2-aa20-781d35841c70,BlazeOps,Team_B,Shadow Corps,21,7,2,0.37,9,40,10.89
+1857d7c6-7bb7-422c-9553-014d2d0a45a6,0a6630a5-14d8-4ac1-9fd8-a91367f3dda9,BulletStorm,Team_B,Shadow Corps,22,12,5,0.36,5,38,11.09
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,25,5,9,0.44,9,49,11.29
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,fd0699d4-6339-4919-a215-dea1fd12e50e,AceTrigger,Team_A,Alpha Wolves,13,10,7,0.3,0,6,10.65
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,bc2c3f43-3a68-47d9-8c50-c89ece326dcf,IronWill,Team_A,Alpha Wolves,17,8,3,0.47,2,50,11.48
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,5b8757f1-dec8-44fa-a746-755b07e729ae,Maverick76,Team_A,Alpha Wolves,16,12,2,0.49,1,31,10.26
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,040170bb-4eb2-4b4d-b781-ab695888d064,BlazeOps,Team_A,Alpha Wolves,19,6,2,0.33,9,8,10.45
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,82f88279-d016-4207-9638-83a5df55ea95,Maverick76,Team_B,Night Stalkers,18,7,1,0.45,9,45,10.94
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,0ca19b19-54e9-47ae-a113-bad8d55b107d,BlazeOps,Team_B,Night Stalkers,12,12,5,0.35,5,71,11.96
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,925a536d-a00e-41ab-85f4-40e1ada975bc,AceTrigger,Team_B,Night Stalkers,15,7,2,0.28,8,41,10.11
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,eb470f9a-d3f9-41d3-9b56-5d7fd5e22f74,NovaBlitz,Team_B,Night Stalkers,25,15,6,0.21,3,0,11.96
+bbc6e71a-fd51-4b77-bf10-19ae5730b5bb,fee55cbd-0a7c-4e94-94d2-0726bfd914ed,IronWill,Team_B,Night Stalkers,14,13,9,0.47,3,30,11.14
+e998d50b-36c1-4f5e-ade2-4258dc8b4c7d,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,24,2,3,0.41,5,76,10.51
+e998d50b-36c1-4f5e-ade2-4258dc8b4c7d,f8db05d5-9133-4492-9e87-af3087345146,BlazeOps,Team_A,Bravo Squad,19,12,10,0.53,4,94,10.23
+e998d50b-36c1-4f5e-ade2-4258dc8b4c7d,a29256ee-bc66-40f1-a1f9-ea827e527631,SilentScope,Team_B,Night Stalkers,18,11,0,0.3,7,87,10.08
+e998d50b-36c1-4f5e-ade2-4258dc8b4c7d,26c12d7c-9789-4e0f-8c66-9de5bcadb429,IronWill,Team_B,Night Stalkers,17,6,1,0.47,8,45,11.77
+d43f972a-e204-4a1e-aba9-0c030faf3c10,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,20,5,7,0.59,5,51,11.57
+d43f972a-e204-4a1e-aba9-0c030faf3c10,02e6278b-98b6-49bf-a0f1-01c20a7107c0,StealthWolf,Team_B,StealthWolf_Solo,21,5,1,0.46,10,1,10.02
+ea4c8119-ec59-4af7-82cb-a841b8e23547,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,2,10,0.53,6,62,9.98
+ea4c8119-ec59-4af7-82cb-a841b8e23547,f6c6b8aa-c25c-4f58-98f6-a91e89533dcf,AceTrigger,Team_B,AceTrigger_Solo,25,9,9,0.29,3,57,10.31
+1cd6a572-6021-4bee-aa64-5a663847cf2e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,21,5,5,0.48,3,28,9.55
+1cd6a572-6021-4bee-aa64-5a663847cf2e,b44319f3-3ef3-4272-b54d-6a2217924ae6,ZeroMercy,Team_A,Shadow Corps,19,12,6,0.35,3,25,11.23
+1cd6a572-6021-4bee-aa64-5a663847cf2e,ed93f73d-ceea-4925-9ca1-bd36ae867c15,SilentScope,Team_A,Shadow Corps,14,7,6,0.48,2,64,11.79
+1cd6a572-6021-4bee-aa64-5a663847cf2e,aa0e8bbd-c891-4469-834c-213f2fc5de19,DeltaSniper,Team_A,Shadow Corps,12,10,4,0.2,3,70,9.66
+1cd6a572-6021-4bee-aa64-5a663847cf2e,ae48239a-75f5-429d-b978-3bec892e9b33,SilentScope,Team_A,Shadow Corps,17,9,2,0.55,1,76,9.15
+1cd6a572-6021-4bee-aa64-5a663847cf2e,7f910ced-7a08-4744-8496-f29cd9eddec8,StealthWolf,Team_B,Shadow Corps,10,10,7,0.52,2,96,9.01
+1cd6a572-6021-4bee-aa64-5a663847cf2e,e4b5949a-2a51-4f25-8312-47dc39188049,BlazeOps,Team_B,Shadow Corps,10,14,9,0.37,6,20,11.73
+1cd6a572-6021-4bee-aa64-5a663847cf2e,74c5438c-866e-453e-83ae-5e96befe7b7e,AceTrigger,Team_B,Shadow Corps,12,9,7,0.32,3,52,10.76
+1cd6a572-6021-4bee-aa64-5a663847cf2e,f0d40db9-2658-4f7e-a6c2-927b53a989e6,VenomFang,Team_B,Shadow Corps,10,14,5,0.39,9,14,11.22
+1cd6a572-6021-4bee-aa64-5a663847cf2e,7fc1cd42-4882-40cc-ad90-a6a86de64b57,AceTrigger,Team_B,Shadow Corps,12,12,3,0.46,6,55,10.45
+979c13c0-e9d8-4733-9985-6e19eb6521df,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,22,4,4,0.46,8,95,10.44
+979c13c0-e9d8-4733-9985-6e19eb6521df,2ecd5cfc-e0a3-4633-aae9-3abc109058a3,AceTrigger,Team_A,Shadow Corps,21,15,3,0.51,1,80,10.36
+979c13c0-e9d8-4733-9985-6e19eb6521df,69f85963-e1df-4d12-b96e-1ec09119960b,AceTrigger,Team_A,Shadow Corps,18,9,9,0.29,6,8,11.38
+979c13c0-e9d8-4733-9985-6e19eb6521df,1916d9ea-19bc-413c-8812-d1fb468abc2b,BlazeOps,Team_A,Shadow Corps,17,14,4,0.31,7,61,10.02
+979c13c0-e9d8-4733-9985-6e19eb6521df,a5e92d44-c214-4aa8-85ba-90efa15b872c,SilentScope,Team_A,Shadow Corps,18,8,2,0.35,3,64,9.47
+979c13c0-e9d8-4733-9985-6e19eb6521df,1775ff44-05d0-4659-8dcb-01342ab093c1,EchoHunter,Team_B,Alpha Wolves,24,12,1,0.33,9,10,11.71
+979c13c0-e9d8-4733-9985-6e19eb6521df,d630fd9f-28d0-4c1f-8651-2c76a442176c,NovaBlitz,Team_B,Alpha Wolves,25,10,10,0.33,8,28,10.78
+979c13c0-e9d8-4733-9985-6e19eb6521df,44861155-423a-49d0-b443-d3193509c19e,IronWill,Team_B,Alpha Wolves,15,14,0,0.21,5,75,11.34
+979c13c0-e9d8-4733-9985-6e19eb6521df,9aad2837-9b4d-4e13-b173-94c5969f4f76,ShadowViper,Team_B,Alpha Wolves,20,9,3,0.32,6,41,9.34
+979c13c0-e9d8-4733-9985-6e19eb6521df,9e8bce7b-2d2f-402b-8fed-9ab319ef0a16,NovaBlitz,Team_B,Alpha Wolves,21,9,1,0.21,9,28,11.19
+e464d1f7-caf4-4884-8054-e16ed71f52c8,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,29,5,2,0.54,3,78,9.73
+e464d1f7-caf4-4884-8054-e16ed71f52c8,9669812d-837f-4e3a-b447-759865e1447a,ZeroMercy,Team_A,Iron Titans,17,5,5,0.47,3,25,11.29
+e464d1f7-caf4-4884-8054-e16ed71f52c8,63dd409d-dbf5-4e56-9eae-1ee806ac0c3d,CrimsonHawk,Team_B,Shadow Corps,16,10,9,0.41,10,69,10.42
+e464d1f7-caf4-4884-8054-e16ed71f52c8,b8ddc308-ff9b-4926-b786-4d8dc8620ba7,ShadowViper,Team_B,Shadow Corps,22,7,1,0.38,9,51,11.19
+de3075bb-e449-44a3-a687-54b391023edb,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,21,4,5,0.44,10,60,11.4
+de3075bb-e449-44a3-a687-54b391023edb,1bdd73b7-2ea0-426f-85e3-c8b0e4057493,Maverick76,Team_B,Maverick76_Solo,14,12,6,0.54,3,6,10.4
+ba6f7da4-6191-4c6a-8c01-779654062096,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,26,6,6,0.6,6,52,10.32
+ba6f7da4-6191-4c6a-8c01-779654062096,381a4243-ed5c-453a-8726-62bbc8115344,ShadowViper,Team_A,Shadow Corps,25,15,5,0.4,5,1,10.5
+ba6f7da4-6191-4c6a-8c01-779654062096,65038c14-18d0-4a58-a311-1a5262b467b5,GhostReaper,Team_A,Shadow Corps,19,9,7,0.55,2,76,10.99
+ba6f7da4-6191-4c6a-8c01-779654062096,3c186857-3570-4dff-a7eb-b7183a6cd0e0,VenomFang,Team_A,Shadow Corps,15,14,0,0.51,10,10,11.19
+ba6f7da4-6191-4c6a-8c01-779654062096,c658d5fc-a34e-48bc-87d1-b01d666f17d4,ShadowViper,Team_B,Red Hawks,24,14,2,0.28,6,45,9.55
+ba6f7da4-6191-4c6a-8c01-779654062096,ae275ae3-2028-4ed6-a491-10d38bee9cab,IronWill,Team_B,Red Hawks,24,13,3,0.26,0,42,9.87
+ba6f7da4-6191-4c6a-8c01-779654062096,d3f96b10-72ba-4e87-ac3d-a8aac3f02e95,AceTrigger,Team_B,Red Hawks,19,15,7,0.23,1,8,10.05
+ba6f7da4-6191-4c6a-8c01-779654062096,de06f633-bec7-4e39-b3e7-dad6a4a25e62,WraithX,Team_B,Red Hawks,24,10,7,0.27,2,35,10.65
+9501dbb0-9120-42bb-80f4-f6c601abb81f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,25,4,8,0.45,7,85,11.46
+9501dbb0-9120-42bb-80f4-f6c601abb81f,0808da5e-a2d5-4960-83fc-313f9c295776,GhostReaper,Team_B,GhostReaper_Solo,19,5,3,0.37,8,0,11.14
+93f8e2cc-7f52-4b35-bede-661d9b508927,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,26,6,9,0.44,5,4,11.44
+93f8e2cc-7f52-4b35-bede-661d9b508927,812e035b-e58e-444f-8c1e-2e19bc6cfae9,WraithX,Team_A,Iron Titans,10,10,0,0.23,6,77,9.57
+93f8e2cc-7f52-4b35-bede-661d9b508927,b4224401-4bee-4819-9e96-63ddd5b2e67f,BlazeOps,Team_A,Iron Titans,24,7,1,0.22,5,49,9.39
+93f8e2cc-7f52-4b35-bede-661d9b508927,e2d7c2c8-1366-4e27-8d2d-f4a61e82c60b,NovaBlitz,Team_A,Iron Titans,17,13,2,0.36,7,66,9.08
+93f8e2cc-7f52-4b35-bede-661d9b508927,3da77066-36b8-44d8-969a-047f7f764986,RogueAgent,Team_B,Bravo Squad,17,12,2,0.4,1,36,11.44
+93f8e2cc-7f52-4b35-bede-661d9b508927,57ebf86f-d18b-433b-a1bf-b957e433eb91,BulletStorm,Team_B,Bravo Squad,15,9,7,0.23,3,0,10.42
+93f8e2cc-7f52-4b35-bede-661d9b508927,c3e5aa33-3219-439d-b40d-6483edc62adc,BlazeOps,Team_B,Bravo Squad,16,14,5,0.21,8,27,11.87
+93f8e2cc-7f52-4b35-bede-661d9b508927,47c44714-9cd1-4c98-a44f-53ead3728401,GhostReaper,Team_B,Bravo Squad,23,13,3,0.29,6,99,11.76
+9d87c278-b009-40d6-8804-a933f04a67dd,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,22,5,8,0.4,6,54,9.99
+9d87c278-b009-40d6-8804-a933f04a67dd,4d5bd436-4634-4486-aad1-57610261f44b,RogueAgent,Team_B,RogueAgent_Solo,23,5,5,0.53,5,72,10.42
+ad86a4d6-8fe5-4e52-b207-305c08da0b85,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,28,6,10,0.43,10,56,11.07
+ad86a4d6-8fe5-4e52-b207-305c08da0b85,ce4a7001-db5d-42ac-b729-b953f3ee099b,SilentScope,Team_A,Alpha Wolves,14,10,2,0.54,5,88,9.88
+ad86a4d6-8fe5-4e52-b207-305c08da0b85,502990c7-2e4d-47f9-a267-a8f14dfa6a7c,NovaBlitz,Team_B,Night Stalkers,12,5,5,0.42,8,57,11.74
+ad86a4d6-8fe5-4e52-b207-305c08da0b85,3eaa4b77-a2bb-4f80-8052-50bff87956a2,IronWill,Team_B,Night Stalkers,16,10,5,0.37,7,80,9.88
+518d39d8-823d-4e40-afc2-c5f086c03c8b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,29,6,5,0.59,0,59,10.97
+518d39d8-823d-4e40-afc2-c5f086c03c8b,93c1e505-e3f2-45d2-8cf1-f3e6d8ef366e,StealthWolf,Team_A,Ghost Unit,17,6,10,0.34,1,54,9.04
+518d39d8-823d-4e40-afc2-c5f086c03c8b,a702dc2c-0245-4c22-b134-31c2875007d3,DeltaSniper,Team_A,Ghost Unit,12,10,6,0.42,1,29,10.89
+518d39d8-823d-4e40-afc2-c5f086c03c8b,905c15e3-98ae-49cb-a784-30a3be656280,StealthWolf,Team_A,Ghost Unit,10,9,0,0.35,0,5,10.96
+518d39d8-823d-4e40-afc2-c5f086c03c8b,b8c19f1b-3b2a-416c-802a-656e917b195c,StealthWolf,Team_A,Ghost Unit,20,13,8,0.31,9,17,11.85
+518d39d8-823d-4e40-afc2-c5f086c03c8b,ff6d915c-9663-4f9c-a400-f5901d05ba94,IronWill,Team_B,Red Hawks,25,5,9,0.34,10,4,11.68
+518d39d8-823d-4e40-afc2-c5f086c03c8b,5a5a02e3-d965-45f4-b635-0748370abb17,VenomFang,Team_B,Red Hawks,19,14,5,0.48,6,83,10.87
+518d39d8-823d-4e40-afc2-c5f086c03c8b,d22c1987-28e4-4fbf-9df2-49af405298b9,CrimsonHawk,Team_B,Red Hawks,11,15,3,0.28,8,27,10.97
+518d39d8-823d-4e40-afc2-c5f086c03c8b,e7dc5cb7-c7bc-40fc-b083-352561be59e6,VenomFang,Team_B,Red Hawks,19,12,5,0.25,5,98,9.49
+518d39d8-823d-4e40-afc2-c5f086c03c8b,615f5312-4b2a-43b5-80d8-fa3537553c81,Maverick76,Team_B,Red Hawks,13,12,3,0.21,5,8,11.19
+e863f8e9-2d24-4662-a84a-03e61066ca66,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,2,10,0.51,10,100,11.45
+e863f8e9-2d24-4662-a84a-03e61066ca66,9e319a03-46ba-4589-b4f7-7f568240f1a8,AceTrigger,Team_B,AceTrigger_Solo,23,11,0,0.45,0,93,11.01
+39beee86-0246-42b6-b256-75cb41fedd3f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,30,2,8,0.5,8,94,11.39
+39beee86-0246-42b6-b256-75cb41fedd3f,d581cd2c-84e8-43dc-af16-aa998e768c4f,BlazeOps,Team_A,Red Hawks,25,15,4,0.26,0,87,9.95
+39beee86-0246-42b6-b256-75cb41fedd3f,4a43d491-89bf-439a-96fc-3c1025e80f03,BulletStorm,Team_A,Red Hawks,22,6,9,0.46,8,57,9.15
+39beee86-0246-42b6-b256-75cb41fedd3f,d31fe38d-b38c-47d5-a659-27c039da1862,NightCrawler,Team_B,Bravo Squad,12,12,8,0.49,1,50,11.86
+39beee86-0246-42b6-b256-75cb41fedd3f,9635df6b-487d-4915-8d37-77f3b3a0a315,BlazeOps,Team_B,Bravo Squad,13,8,10,0.51,8,37,9.69
+39beee86-0246-42b6-b256-75cb41fedd3f,2fd962d7-3e6d-4ec7-8e56-861b5bca323a,VenomFang,Team_B,Bravo Squad,13,15,0,0.26,1,48,9.29
+5114c931-9550-47db-8bd3-4aac09cf630c,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,28,6,5,0.41,3,53,9.77
+5114c931-9550-47db-8bd3-4aac09cf630c,ca2b1f8c-cdcb-4f73-9843-13adb7cbff6d,DeltaSniper,Team_A,Shadow Corps,14,12,6,0.34,2,98,10.5
+5114c931-9550-47db-8bd3-4aac09cf630c,74561c54-f8cd-4b54-b505-bb546f7277a1,FrostByte,Team_A,Shadow Corps,21,12,4,0.48,7,35,10.92
+5114c931-9550-47db-8bd3-4aac09cf630c,dd65f16f-5d0c-4ca9-bc3d-63a685900a5b,CrimsonHawk,Team_B,Shadow Corps,11,13,8,0.22,9,100,10.69
+5114c931-9550-47db-8bd3-4aac09cf630c,8b64eadd-5c6f-479a-afd7-8ce0e9a95117,WraithX,Team_B,Shadow Corps,13,12,1,0.52,5,99,10.96
+5114c931-9550-47db-8bd3-4aac09cf630c,19d41de2-1c0b-4151-9c24-67f20bd389fe,SilentScope,Team_B,Shadow Corps,13,11,6,0.21,1,33,9.83
+04825c4e-7b99-45ae-b834-bf64a0660c7f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,30,2,0,0.44,4,33,11.95
+04825c4e-7b99-45ae-b834-bf64a0660c7f,025fba17-1a34-47c2-b1ee-a84aa6f20bfe,DeltaSniper,Team_B,DeltaSniper_Solo,21,7,5,0.35,10,84,9.85
+8ef91905-5d6a-4b7d-b4f4-bd1b5f3c588b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,24,6,4,0.49,1,84,10.33
+8ef91905-5d6a-4b7d-b4f4-bd1b5f3c588b,705044f4-c34c-4c26-b275-63a50c72aa3e,BulletStorm,Team_A,Bravo Squad,13,8,8,0.53,0,32,11.45
+8ef91905-5d6a-4b7d-b4f4-bd1b5f3c588b,9365d771-2d4a-4b72-b1c3-162e247c240a,AceTrigger,Team_B,Night Stalkers,25,11,8,0.25,3,56,10.81
+8ef91905-5d6a-4b7d-b4f4-bd1b5f3c588b,ffeb420f-59e7-452a-8cec-b06d9312a7ae,ZeroMercy,Team_B,Night Stalkers,22,10,2,0.46,7,85,9.94
+40b2e32d-5700-4f66-a570-8109579bd146,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,22,5,4,0.42,0,21,10.91
+40b2e32d-5700-4f66-a570-8109579bd146,8216eb52-d363-46d6-9f2c-cca391bd0f9c,BlazeOps,Team_A,Iron Titans,13,8,5,0.32,5,43,9.85
+40b2e32d-5700-4f66-a570-8109579bd146,597903b9-dcb1-4504-a449-44aaf559ad78,VenomFang,Team_A,Iron Titans,12,13,6,0.27,2,11,11.45
+40b2e32d-5700-4f66-a570-8109579bd146,a27d6361-f919-406c-a44f-089c35588a31,NightCrawler,Team_A,Iron Titans,18,6,1,0.5,0,73,10.08
+40b2e32d-5700-4f66-a570-8109579bd146,abdaec42-8d80-4a5b-8e57-1e73ad51496d,CrimsonHawk,Team_B,Alpha Wolves,18,7,2,0.5,7,43,10.89
+40b2e32d-5700-4f66-a570-8109579bd146,86a4242c-47ba-492c-9e13-fb69ce3defd5,ShadowViper,Team_B,Alpha Wolves,21,11,0,0.52,8,35,10.51
+40b2e32d-5700-4f66-a570-8109579bd146,19522e7c-17d1-4e21-a0da-1e408b6e5769,Maverick76,Team_B,Alpha Wolves,15,5,2,0.35,6,24,10.41
+40b2e32d-5700-4f66-a570-8109579bd146,24bd50bc-9dbe-4e60-9c5d-d2dd691a4f1c,NightCrawler,Team_B,Alpha Wolves,19,5,9,0.44,3,62,9.55
+7bd04f80-3324-4b50-b0c5-3d8b3851ac12,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,23,5,3,0.52,3,19,11.66
+7bd04f80-3324-4b50-b0c5-3d8b3851ac12,411ed26e-7cc9-4721-93d3-00d3adff5d12,BlazeOps,Team_B,BlazeOps_Solo,14,12,7,0.36,4,55,11.16
+3498d0b0-39b6-4bed-a66b-a6ca1ffcbd44,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,22,6,9,0.44,10,37,9.56
+3498d0b0-39b6-4bed-a66b-a6ca1ffcbd44,01ee6dda-fed3-4021-8d53-e47ace665005,VenomFang,Team_B,VenomFang_Solo,24,15,9,0.45,10,19,11.26
+f7f2822c-6d9a-4186-b95a-c1c3e3c7b51f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,30,4,1,0.46,3,53,11.86
+f7f2822c-6d9a-4186-b95a-c1c3e3c7b51f,eb0e3a85-cfca-4cb2-93ea-519ce85d9b80,SilentScope,Team_B,SilentScope_Solo,21,15,6,0.51,6,64,9.47
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,21,3,7,0.42,10,64,9.99
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,8d82076d-ad57-408c-afa9-b80ef0f1672a,NightCrawler,Team_A,Ghost Unit,15,5,3,0.27,1,61,10.19
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,507e7c26-2486-47ba-9e3f-c50ad2fdf712,WraithX,Team_A,Ghost Unit,10,10,3,0.29,8,87,9.12
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,8c31e6d9-7f92-4965-ab31-124c83b51195,NovaBlitz,Team_A,Ghost Unit,17,8,10,0.27,1,65,10.96
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,5b95a425-2a9f-4258-ad92-15db15ac69a6,ShadowViper,Team_A,Ghost Unit,13,11,0,0.34,2,31,10.62
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,0414a2f0-662b-4f17-a5f5-2b3a3e48b50b,BlazeOps,Team_B,Alpha Wolves,14,13,9,0.22,3,64,9.36
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,794bb7c5-0f62-4390-82b0-fea74e999a2f,Maverick76,Team_B,Alpha Wolves,21,8,10,0.23,3,72,10.06
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,f27854d5-1773-42e6-a2ff-1450e0e09085,SilentScope,Team_B,Alpha Wolves,13,10,1,0.37,5,74,9.78
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,12aa1432-4790-46c8-8a41-71f3906b75b1,TacticalTony,Team_B,Alpha Wolves,10,15,8,0.33,6,23,10.28
+0baac8ef-10c1-4da5-adb0-943a52bc9fd5,113d12b8-c7a3-416f-b9e3-3c98c11e1765,ZeroMercy,Team_B,Alpha Wolves,22,10,2,0.22,6,83,10.19
+1b1e4686-aa14-418a-9858-0e5730bbc3af,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,25,4,5,0.57,1,81,11.02
+1b1e4686-aa14-418a-9858-0e5730bbc3af,df33329a-d03f-4673-8a94-338664ee6c90,NovaBlitz,Team_A,Iron Titans,14,11,3,0.54,5,5,9.3
+1b1e4686-aa14-418a-9858-0e5730bbc3af,8f41fae3-baf3-4935-acc0-7e7a7db96e68,BlazeOps,Team_B,Night Stalkers,14,6,1,0.22,5,61,9.87
+1b1e4686-aa14-418a-9858-0e5730bbc3af,e80d0292-4761-4d45-9654-d3ea70d8e111,AceTrigger,Team_B,Night Stalkers,25,15,9,0.21,8,8,9.41
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,29,2,6,0.58,6,47,10.69
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,c6cf8cc9-e9ba-44ec-b6be-0c03ff2fa010,GhostReaper,Team_A,Shadow Corps,16,11,8,0.39,10,20,11.29
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,2db05674-4076-4ced-b293-6b5db78a1c11,DeltaSniper,Team_A,Shadow Corps,19,5,3,0.35,0,67,9.68
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,241ab9f7-6309-40a6-b264-396475024268,WraithX,Team_A,Shadow Corps,12,9,3,0.46,9,1,10.74
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,225f8fd1-55a7-43cf-afff-08d1217e751f,AceTrigger,Team_A,Shadow Corps,14,5,10,0.52,6,22,10.02
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,c8b7439c-20e2-4b6e-896d-1bdbe9e20c9f,VenomFang,Team_B,Alpha Wolves,11,12,10,0.2,4,63,9.53
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,a394dd22-ea92-45e9-b5fa-97b87499d4a9,StealthWolf,Team_B,Alpha Wolves,20,15,8,0.36,8,78,10.57
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,1b837245-f598-41b1-b865-c8cdc342532e,FrostByte,Team_B,Alpha Wolves,12,8,1,0.26,5,22,9.69
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,844fc3d1-1e7f-4819-ac7b-35dd79106885,IronWill,Team_B,Alpha Wolves,16,7,10,0.25,2,98,10.36
+b9d127eb-e9a5-40df-ab37-92bbd611f0a1,bb574a40-1fb5-4773-8c0e-e79ca7797c57,RogueAgent,Team_B,Alpha Wolves,18,5,10,0.24,3,70,10.78
+8944f84d-690e-45c9-9cbc-0923226c3448,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,25,5,8,0.48,6,100,11.63
+8944f84d-690e-45c9-9cbc-0923226c3448,5110d137-30de-47f0-9985-6a6b1fdfa442,StealthWolf,Team_A,Shadow Corps,21,14,0,0.29,7,80,10.64
+8944f84d-690e-45c9-9cbc-0923226c3448,5d37240b-6d7e-4ad1-81e6-efa6f9e04f66,BulletStorm,Team_A,Shadow Corps,15,9,6,0.46,9,66,9.65
+8944f84d-690e-45c9-9cbc-0923226c3448,30344da7-b57b-46ee-8926-2e05f2c1d473,ZeroMercy,Team_B,Night Stalkers,25,10,5,0.33,10,2,10.92
+8944f84d-690e-45c9-9cbc-0923226c3448,38d00200-d8b1-461b-bf27-1ca4fc2b27d1,EchoHunter,Team_B,Night Stalkers,20,13,0,0.29,0,94,10.48
+8944f84d-690e-45c9-9cbc-0923226c3448,3a2dfbdb-eb02-4233-a153-e3885f8f73ea,SilentScope,Team_B,Night Stalkers,24,5,3,0.42,1,56,9.16
+f4fb73d4-37fb-48ba-aeaf-846ff7b7359b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,28,5,5,0.43,9,90,10.12
+f4fb73d4-37fb-48ba-aeaf-846ff7b7359b,602c67ac-c212-4aa3-8ac1-ec41d5a34d4f,Maverick76,Team_B,Maverick76_Solo,10,9,5,0.27,10,53,9.71
+01d1437d-50cb-4520-b5f7-834197deb786,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,26,3,9,0.59,10,25,10.37
+01d1437d-50cb-4520-b5f7-834197deb786,4b1faea0-e238-430a-b6a9-49975a6ff1a7,NightCrawler,Team_A,Ghost Unit,20,7,2,0.2,2,49,11.81
+01d1437d-50cb-4520-b5f7-834197deb786,60989e70-1455-41cb-918c-862a49b0e03b,GhostReaper,Team_A,Ghost Unit,16,6,2,0.55,6,51,11.23
+01d1437d-50cb-4520-b5f7-834197deb786,dca689e5-3e65-4af5-a103-91c8722e1955,ZeroMercy,Team_B,Ghost Unit,17,6,8,0.33,2,24,9.88
+01d1437d-50cb-4520-b5f7-834197deb786,03140c26-36b9-4136-a752-cae6f8645ee3,DeltaSniper,Team_B,Ghost Unit,10,6,1,0.37,9,74,11.07
+01d1437d-50cb-4520-b5f7-834197deb786,6d6336cb-3d47-447e-a5d8-afda02d06806,StealthWolf,Team_B,Ghost Unit,20,12,5,0.52,1,77,9.75
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,28,3,0,0.49,5,52,9.68
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,ce8a7e92-e8fe-4614-972b-840944808c62,WraithX,Team_A,Iron Titans,17,15,3,0.33,5,76,11.41
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,6bd80d95-8922-47c8-8318-888a40c4b5f9,CrimsonHawk,Team_A,Iron Titans,12,12,2,0.48,4,14,9.72
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,c7e3691c-71cc-4cb4-bf66-a0095903759d,ZeroMercy,Team_A,Iron Titans,10,7,8,0.45,6,61,11.42
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,36e963fd-a0f1-4c40-bb12-e34f102979ca,DeltaSniper,Team_A,Iron Titans,11,11,0,0.34,2,37,11.23
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,627b5ac1-ea72-46fb-910e-c37edd44c7ee,BulletStorm,Team_B,Ghost Unit,15,8,7,0.33,4,10,10.34
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,34f3089a-a357-4070-b655-4b0dbeb95a38,StealthWolf,Team_B,Ghost Unit,11,10,3,0.36,2,16,10.5
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,c854af0c-ba67-4e4c-bc51-d685d5a473e7,SilentScope,Team_B,Ghost Unit,25,15,1,0.47,5,67,9.49
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,63fabe01-1e27-4236-8ffb-81d34442d93b,WraithX,Team_B,Ghost Unit,13,11,3,0.49,1,61,10.66
+13a3bcb4-d272-4545-afd9-1d0aeb5841fe,cb7a067c-ab84-4c91-aa58-b89c50962b1d,DeltaSniper,Team_B,Ghost Unit,20,6,4,0.23,1,20,9.77
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,30,4,10,0.42,3,56,11.47
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,6827b89c-22c4-4892-ba3e-b25e0f29e557,TacticalTony,Team_A,Iron Titans,25,9,0,0.23,10,52,11.67
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,b2a771fd-8f5c-426f-b73c-9076e91a655a,VenomFang,Team_A,Iron Titans,20,9,0,0.52,8,45,9.95
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,730cc967-c438-44e3-b425-d27375207411,SilentScope,Team_A,Iron Titans,10,8,10,0.29,1,63,11.68
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,439b39bb-8c55-4438-8bb5-4960b9436e46,VenomFang,Team_A,Iron Titans,12,12,10,0.21,0,14,9.31
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,9b5cc85d-5107-4d08-beee-15ee65bacec4,DeltaSniper,Team_B,Iron Titans,14,12,1,0.27,10,66,9.66
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,288e0d85-6e5f-46ca-b579-1713277a9321,TacticalTony,Team_B,Iron Titans,24,7,5,0.21,7,75,9.73
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,8d4a41d0-f211-44d1-b34b-88b1a70bf156,VenomFang,Team_B,Iron Titans,21,11,9,0.29,1,85,9.09
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,1ff6d64f-3e9c-4a4f-9eec-db4fed76fda0,RogueAgent,Team_B,Iron Titans,19,7,7,0.47,8,19,11.17
+1ca311e7-6efe-4bb2-ae29-dd5ad4693268,aec053fb-0bc7-46ac-bd47-897f07a5c350,StealthWolf,Team_B,Iron Titans,12,6,4,0.35,2,38,9.84
+c3c5a33a-834f-40ba-badf-95493a54f574,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,24,2,5,0.45,4,84,10.71
+c3c5a33a-834f-40ba-badf-95493a54f574,48398920-7028-4ff7-a596-c45d4191544d,VenomFang,Team_B,VenomFang_Solo,23,7,2,0.3,2,29,11.26
+e66a0641-979c-4008-a479-28f22f604b0b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,27,5,4,0.6,2,95,11.02
+e66a0641-979c-4008-a479-28f22f604b0b,22da09fe-ee42-4906-8154-4fe905533336,TacticalTony,Team_B,TacticalTony_Solo,12,11,0,0.52,3,66,9.79
+97149163-07e9-4277-bd36-e462b1621740,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,29,3,9,0.55,2,30,11.3
+97149163-07e9-4277-bd36-e462b1621740,14ffa742-720f-4479-92d9-07ff870064ee,EchoHunter,Team_B,EchoHunter_Solo,23,11,7,0.31,4,54,9.19
+69886325-90f6-481b-a135-da94ef505f3e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,22,4,5,0.57,0,55,10.46
+69886325-90f6-481b-a135-da94ef505f3e,b29f5705-939c-4b46-8fdd-95948e74141d,GhostReaper,Team_A,Night Stalkers,20,15,3,0.49,7,83,9.31
+69886325-90f6-481b-a135-da94ef505f3e,b6b014b4-baec-46c4-b07a-ee66c1f1df5d,DeltaSniper,Team_B,Red Hawks,17,15,3,0.44,10,13,10.92
+69886325-90f6-481b-a135-da94ef505f3e,b5ab8325-dc7c-4751-8f86-ab5961b43f8b,ShadowViper,Team_B,Red Hawks,25,13,10,0.41,7,68,11.05
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,23,5,8,0.42,3,1,10.55
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,c12c7d19-8581-4ad7-8885-16482805d6bc,EchoHunter,Team_A,Shadow Corps,13,15,4,0.31,10,36,11.58
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,71df90ca-06ab-4ce1-9159-7cf95aa0a575,SilentScope,Team_A,Shadow Corps,19,12,3,0.28,5,83,9.8
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,e1f8b024-b3a9-4dbd-962f-2586ad280e75,AceTrigger,Team_B,Alpha Wolves,25,8,0,0.35,1,85,10.81
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,80be9f2c-e134-423a-8f14-8c972a4fc17b,BlazeOps,Team_B,Alpha Wolves,21,7,3,0.49,1,85,10.09
+996cf9d6-e23e-47d7-8db8-d9ef1e9f275b,4e32f7b8-eaf6-44e9-af4e-7e481230366b,SilentScope,Team_B,Alpha Wolves,20,5,9,0.29,3,60,9.01
+052326c5-a413-49f5-9316-11dcfd225915,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,25,4,7,0.56,4,82,10.96
+052326c5-a413-49f5-9316-11dcfd225915,5abc6af3-4103-43a4-b314-55854547daf5,ShadowViper,Team_B,ShadowViper_Solo,21,7,10,0.4,5,4,9.98
+69a3f89d-0f82-4a38-a422-dd106301e207,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,21,3,2,0.41,6,50,11.01
+69a3f89d-0f82-4a38-a422-dd106301e207,1cfc96ad-a983-41f0-a4be-66476a356170,Maverick76,Team_A,Bravo Squad,11,11,9,0.53,9,81,11.22
+69a3f89d-0f82-4a38-a422-dd106301e207,8dcbc046-8abf-48d7-918b-801e079aa1d8,FrostByte,Team_A,Bravo Squad,19,6,1,0.35,9,44,10.91
+69a3f89d-0f82-4a38-a422-dd106301e207,22731035-4f12-4ca6-b6dd-2a4080262e10,EchoHunter,Team_A,Bravo Squad,11,15,2,0.49,7,65,11.37
+69a3f89d-0f82-4a38-a422-dd106301e207,48b0791c-b1a0-475d-bc1d-0cf072ea17b6,AceTrigger,Team_B,Red Hawks,10,13,10,0.54,0,50,11.99
+69a3f89d-0f82-4a38-a422-dd106301e207,1cee324b-57ba-4f81-9cda-ff5cc336f4a1,Maverick76,Team_B,Red Hawks,16,6,10,0.47,1,58,9.45
+69a3f89d-0f82-4a38-a422-dd106301e207,c510d22e-29f4-4176-bbe6-e118186b27d6,BulletStorm,Team_B,Red Hawks,20,14,2,0.25,3,30,10.66
+69a3f89d-0f82-4a38-a422-dd106301e207,4a4085eb-2564-4607-9e2a-dd0325ef944a,TacticalTony,Team_B,Red Hawks,15,10,5,0.34,0,88,10.5
+e97ecaae-e7b9-438c-990c-7dbd572d0afe,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,25,4,6,0.53,1,54,11.81
+e97ecaae-e7b9-438c-990c-7dbd572d0afe,58792ab6-d4a4-4df9-8196-0d4ef0878606,FrostByte,Team_B,FrostByte_Solo,24,6,3,0.54,4,22,9.78
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,28,6,7,0.58,4,23,10.19
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,331ebccb-55ae-47e4-bd90-f04adb5f6ac8,DeltaSniper,Team_A,Red Hawks,19,7,0,0.2,7,76,9.76
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,1166b481-e5e8-47c6-8b8c-766abf09d870,ZeroMercy,Team_A,Red Hawks,25,9,7,0.24,1,79,10.95
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,eaa15cee-4dce-4911-bb8f-38244c22561b,AceTrigger,Team_A,Red Hawks,19,7,10,0.32,5,72,11.93
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,68086d60-35b9-411a-8e0b-696eb7b59b57,IronWill,Team_B,Red Hawks,20,8,0,0.53,9,46,11.71
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,09cc3893-aeef-4df2-858a-c7c442756323,CrimsonHawk,Team_B,Red Hawks,25,12,9,0.41,3,50,11.9
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,bee7553f-31b1-40ec-b07a-83528fa2a876,StealthWolf,Team_B,Red Hawks,15,12,7,0.27,2,28,10.75
+5e0c9d93-7705-41e6-a26d-e8f67736f4c3,805422d5-bcf3-477a-bad0-59207a5fbdd0,Maverick76,Team_B,Red Hawks,13,11,1,0.54,2,74,11.35
+04d13344-8a12-440c-a0ed-09954f34109e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,24,3,10,0.51,3,6,11.34
+04d13344-8a12-440c-a0ed-09954f34109e,064f3fc0-764d-4fe1-a4c2-558f56f0ac84,DeltaSniper,Team_A,Iron Titans,10,12,10,0.31,0,22,10.12
+04d13344-8a12-440c-a0ed-09954f34109e,46806ec4-2b1b-4219-9ac9-dac928768448,EchoHunter,Team_B,Ghost Unit,22,14,4,0.3,1,21,10.58
+04d13344-8a12-440c-a0ed-09954f34109e,c0cd06d5-ffc2-430f-9541-2003a2611273,NightCrawler,Team_B,Ghost Unit,14,7,0,0.26,8,61,11.57
+1a336a88-b991-45d0-9a47-563835f98b0f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,22,5,7,0.57,0,98,10.62
+1a336a88-b991-45d0-9a47-563835f98b0f,77236970-aa02-4af4-a649-2ad509c5b38d,BulletStorm,Team_B,BulletStorm_Solo,19,8,3,0.4,7,1,11.5
+56d0b47b-dfb7-4fc5-ac7e-d4ab17b3eb1b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,29,4,3,0.59,7,79,10.09
+56d0b47b-dfb7-4fc5-ac7e-d4ab17b3eb1b,cd8166a4-460e-4aff-9701-f684bcbaac99,FrostByte,Team_B,FrostByte_Solo,13,8,8,0.53,2,17,9.33
+65eda4c5-ff61-4c60-8db3-dd3fe903bf37,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,26,5,3,0.5,7,8,11.42
+65eda4c5-ff61-4c60-8db3-dd3fe903bf37,69ecc923-6537-41fe-8a27-4da44c50e3c8,CrimsonHawk,Team_B,CrimsonHawk_Solo,13,14,8,0.28,4,34,11.78
+ea05194e-e3d1-43e8-8645-daf49b9e71af,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,28,5,8,0.57,0,25,11.01
+ea05194e-e3d1-43e8-8645-daf49b9e71af,b6fa4362-600d-4d06-adc8-f287669611ec,WraithX,Team_B,WraithX_Solo,18,15,3,0.35,8,15,11.22
+519188f2-cfbb-4aaf-8c41-a87c1876d635,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,29,5,5,0.52,5,39,9.52
+519188f2-cfbb-4aaf-8c41-a87c1876d635,5b86b69c-6e3c-44f7-8fb1-4adbf4127e1f,ShadowViper,Team_A,Shadow Corps,24,12,5,0.51,3,45,9.05
+519188f2-cfbb-4aaf-8c41-a87c1876d635,fe52d046-b465-4880-b3d4-e749095e97e1,RogueAgent,Team_B,Ghost Unit,14,8,1,0.52,10,15,10.66
+519188f2-cfbb-4aaf-8c41-a87c1876d635,b6ba48a0-e193-4749-bdd1-32fca123f296,Maverick76,Team_B,Ghost Unit,10,15,10,0.39,3,66,9.54
+c896802a-0599-49ae-80c6-6be39d3eaeb1,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,27,6,7,0.48,7,75,10.91
+c896802a-0599-49ae-80c6-6be39d3eaeb1,409799f2-1da7-4ed8-b633-5c357f48587b,NovaBlitz,Team_B,NovaBlitz_Solo,15,10,3,0.38,7,8,11.21
+0c5e833e-1813-4c1b-a2e8-c216e43d2cd0,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,21,4,3,0.42,3,95,11.23
+0c5e833e-1813-4c1b-a2e8-c216e43d2cd0,34b97d93-2f06-4e82-94fa-d17cccc18f5e,GhostReaper,Team_B,GhostReaper_Solo,24,5,7,0.33,0,82,10.25
+2b3578a1-0bcf-43b3-a1db-1b0a95a6e253,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,2,19,1,0.06,9,100,3.9
+2b3578a1-0bcf-43b3-a1db-1b0a95a6e253,47e549cc-8a24-42ce-a34f-ee8a5e0a28b6,TacticalTony,Team_B,TacticalTony_Solo,23,6,9,0.55,5,43,11.97
+75860183-699d-4077-854f-79e74b29b4c1,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,4,14,1,0.14,3,32,3.75
+75860183-699d-4077-854f-79e74b29b4c1,8337312f-c27a-4ec9-a29a-134b242a0408,GhostReaper,Team_B,GhostReaper_Solo,17,12,7,0.37,0,99,9.23
+79d90694-cdf0-428c-953d-4f59879c7073,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,2,14,6,0.12,1,68,1.75
+79d90694-cdf0-428c-953d-4f59879c7073,040c599a-7157-48e6-b4f6-094402f854d6,BulletStorm,Team_B,BulletStorm_Solo,14,5,5,0.51,8,16,9.86
+036b5393-1d3f-4a46-8fed-587b779c49f7,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,0,17,4,0.07,2,38,2.2
+036b5393-1d3f-4a46-8fed-587b779c49f7,a4835307-be0b-41a7-9eb9-bdec310a6a1d,BlazeOps,Team_A,Night Stalkers,18,12,5,0.29,0,98,10.08
+036b5393-1d3f-4a46-8fed-587b779c49f7,9d229792-25a1-477f-8673-c7c3fab23359,BlazeOps,Team_B,Ghost Unit,20,7,5,0.4,3,49,10.82
+036b5393-1d3f-4a46-8fed-587b779c49f7,ce2778a6-8c9e-44f7-8953-c2d264ccd4ca,WraithX,Team_B,Ghost Unit,13,7,2,0.21,0,79,10.35
+8c652569-3519-4921-b08a-22ea33837ada,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,2,12,5,0.12,0,68,2.65
+8c652569-3519-4921-b08a-22ea33837ada,b97cca40-49ed-4e5d-a9f1-93440d7cabeb,DeltaSniper,Team_A,Night Stalkers,23,13,4,0.5,4,41,11.81
+8c652569-3519-4921-b08a-22ea33837ada,d0eed03f-f0da-4222-b806-5f81e5335a89,BlazeOps,Team_A,Night Stalkers,20,12,8,0.55,1,93,11.23
+8c652569-3519-4921-b08a-22ea33837ada,0a66b9b7-6199-43d8-8c56-4afc9752dd5b,WraithX,Team_A,Night Stalkers,18,9,5,0.55,4,7,9.1
+8c652569-3519-4921-b08a-22ea33837ada,361a9b9e-2db9-47f3-a9a8-f5a2b57803d9,CrimsonHawk,Team_A,Night Stalkers,12,10,6,0.52,7,35,11
+8c652569-3519-4921-b08a-22ea33837ada,7cba75dc-0ee1-403b-86d5-72b4c464db08,ShadowViper,Team_B,Alpha Wolves,15,5,7,0.24,5,76,10.18
+8c652569-3519-4921-b08a-22ea33837ada,c7b0ea67-930e-41a1-ae54-b0e35c7a6303,AceTrigger,Team_B,Alpha Wolves,17,5,3,0.52,4,80,9.07
+8c652569-3519-4921-b08a-22ea33837ada,bdd2c8ba-a7e1-4057-bf84-852df5a1eb38,TacticalTony,Team_B,Alpha Wolves,19,5,0,0.32,6,80,10.89
+8c652569-3519-4921-b08a-22ea33837ada,402fe825-1f0d-4e44-b888-6f758e42e15c,SilentScope,Team_B,Alpha Wolves,10,14,4,0.23,6,45,9.76
+8c652569-3519-4921-b08a-22ea33837ada,52d94b8d-aad4-4245-86c6-7d29e14a124f,StealthWolf,Team_B,Alpha Wolves,18,5,4,0.54,0,2,9.04
+c483ab90-11cc-476e-80ce-1f01373a8d9d,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,0,19,3,0.1,4,93,2.84
+c483ab90-11cc-476e-80ce-1f01373a8d9d,cc271a7a-0355-4d29-98aa-32a9475ea722,NovaBlitz,Team_A,Iron Titans,24,10,4,0.26,8,74,10.22
+c483ab90-11cc-476e-80ce-1f01373a8d9d,89fd79d1-c5d8-4d54-9d60-db7beb015157,AceTrigger,Team_A,Iron Titans,14,9,7,0.34,6,7,9.4
+c483ab90-11cc-476e-80ce-1f01373a8d9d,eeffe5e3-74fd-4991-818d-4ca0d42f051c,TacticalTony,Team_A,Iron Titans,16,13,5,0.21,1,11,10.41
+c483ab90-11cc-476e-80ce-1f01373a8d9d,e5090c24-4512-4425-97fd-834518b5f07e,Maverick76,Team_B,Night Stalkers,13,7,6,0.43,5,22,9.32
+c483ab90-11cc-476e-80ce-1f01373a8d9d,ae574aa8-add7-4f51-8e4f-af056be4970c,CrimsonHawk,Team_B,Night Stalkers,11,13,5,0.44,9,2,10.1
+c483ab90-11cc-476e-80ce-1f01373a8d9d,0aee5283-a9a9-448f-b88b-063ec14f4200,StealthWolf,Team_B,Night Stalkers,17,6,1,0.32,7,32,9.06
+c483ab90-11cc-476e-80ce-1f01373a8d9d,4f576024-ff5f-4593-a3cc-97d412287d2b,TacticalTony,Team_B,Night Stalkers,23,15,7,0.3,10,49,11.85
+0d2ba799-dd10-4079-914c-10e70a85614a,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,18,3,0.12,2,89,4.62
+0d2ba799-dd10-4079-914c-10e70a85614a,e1b105c1-b8fa-4b85-9501-80f944336c2d,ZeroMercy,Team_B,ZeroMercy_Solo,13,14,2,0.36,5,39,10.42
+4564eac9-0ae6-454b-9313-a0872da62a0b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,15,4,0.2,6,75,4.49
+4564eac9-0ae6-454b-9313-a0872da62a0b,72f9d5ce-a5bf-48fc-aa79-3e6273cff784,BlazeOps,Team_B,BlazeOps_Solo,19,10,9,0.47,2,32,10.93
+4dbcccca-6d10-4b75-b934-9ea0f8a8301f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,19,1,0.07,1,30,2.01
+4dbcccca-6d10-4b75-b934-9ea0f8a8301f,8259cc01-0596-41dd-9f67-aca9d10e6688,WraithX,Team_B,WraithX_Solo,14,9,4,0.53,7,91,11.05
+810a1cad-3bcd-43ad-9a00-f733d9caaff0,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,0,13,4,0.12,4,67,1.67
+810a1cad-3bcd-43ad-9a00-f733d9caaff0,e15963fc-44b1-4842-bd98-300e1fb64909,BulletStorm,Team_A,Night Stalkers,19,5,4,0.51,6,43,10.72
+810a1cad-3bcd-43ad-9a00-f733d9caaff0,69092ffb-f933-4624-8f0f-b48c7478902b,NovaBlitz,Team_B,Bravo Squad,18,11,9,0.28,2,82,11.91
+810a1cad-3bcd-43ad-9a00-f733d9caaff0,9674aa04-5b9d-4e2f-81bf-d5860f257639,StealthWolf,Team_B,Bravo Squad,25,13,3,0.21,7,50,11.87
+bc8aa532-1d31-4e8a-83e5-e90d62647292,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,4,10,8,0.08,0,41,2.66
+bc8aa532-1d31-4e8a-83e5-e90d62647292,96702d4e-7ecc-4745-af90-44f44ff8170a,ZeroMercy,Team_A,Shadow Corps,18,7,8,0.32,7,15,10.69
+bc8aa532-1d31-4e8a-83e5-e90d62647292,7a243516-0324-4569-8b1d-7256732135ad,BlazeOps,Team_A,Shadow Corps,14,13,6,0.4,7,55,9.92
+bc8aa532-1d31-4e8a-83e5-e90d62647292,20599a17-11f1-4f85-acb3-0c2422eecabc,BlazeOps,Team_A,Shadow Corps,22,5,1,0.44,9,24,9.24
+bc8aa532-1d31-4e8a-83e5-e90d62647292,3644ac12-147e-4761-a577-45dd783c42dd,CrimsonHawk,Team_B,Night Stalkers,15,11,9,0.49,10,83,9.38
+bc8aa532-1d31-4e8a-83e5-e90d62647292,f14736fa-f401-4c0f-bbb2-14950f7528e1,AceTrigger,Team_B,Night Stalkers,16,6,7,0.36,0,67,11.59
+bc8aa532-1d31-4e8a-83e5-e90d62647292,75812911-8eac-4184-8854-d6565cc38be7,CrimsonHawk,Team_B,Night Stalkers,23,12,10,0.31,5,83,9.35
+bc8aa532-1d31-4e8a-83e5-e90d62647292,01124f98-dddf-4759-8414-052bc33052a0,BlazeOps,Team_B,Night Stalkers,16,14,6,0.43,7,5,11.47
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,4,19,4,0.15,0,45,3.7
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,f12b83f0-b1d0-4327-b67e-03feb6646313,WraithX,Team_A,Night Stalkers,24,5,0,0.25,1,46,10.1
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,bc6f96fd-afbd-442b-ac8a-3fd6e1d02e6f,CrimsonHawk,Team_A,Night Stalkers,19,9,9,0.42,9,68,9.11
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,d9147eec-71d0-4254-973c-95038befeae3,RogueAgent,Team_B,Shadow Corps,24,10,10,0.25,3,62,10.17
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,9803b7d6-302b-4e3a-8918-b594cfc2977e,EchoHunter,Team_B,Shadow Corps,18,13,5,0.29,10,83,10.01
+5d2dc4be-bc0e-47b4-bdd6-b7c9a9f522af,86864ec2-d2bf-418e-9b47-b825a5c40f77,SilentScope,Team_B,Shadow Corps,22,15,5,0.34,4,23,9.73
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,0,18,2,0.15,7,93,2.49
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,142b298b-94ad-4038-979a-fa7a4417a814,SilentScope,Team_A,Ghost Unit,14,13,2,0.42,7,49,11.09
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,90d3ec25-6503-45df-b5b0-7960e4057985,BulletStorm,Team_A,Ghost Unit,20,15,0,0.38,8,74,10.67
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,681a90e6-e986-4af7-82e3-1e8ae1fbb40d,EchoHunter,Team_B,Bravo Squad,15,15,0,0.54,3,52,11.45
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,66dbeec0-45f0-4f0a-a8bb-31641dce2bc3,BlazeOps,Team_B,Bravo Squad,10,15,10,0.27,4,33,10.39
+a7a5e2ff-78d3-4a92-8631-9e2c06330cb9,34d9a0f3-e10a-44ac-ad98-e688448f8003,NovaBlitz,Team_B,Bravo Squad,15,15,4,0.52,3,88,10.8
+8c57e169-6e5e-4727-b817-8c15f98fd757,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,17,6,0.12,5,28,4.56
+8c57e169-6e5e-4727-b817-8c15f98fd757,4a4dd615-5d8c-42db-bee1-fb94b5653cc3,SilentScope,Team_B,SilentScope_Solo,25,12,4,0.44,7,13,9.77
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,3,15,6,0.05,9,42,1.77
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,f0e8c148-b53b-4171-bea3-362e751db4e5,ShadowViper,Team_A,Bravo Squad,25,7,0,0.32,1,49,9.53
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,ee174c09-bebe-4d6e-83f6-9a9c4ddc9127,AceTrigger,Team_A,Bravo Squad,12,10,0,0.35,7,79,10.43
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,39e093a0-3f83-497d-b558-2618e7472dfd,Maverick76,Team_B,Ghost Unit,14,8,0,0.22,8,8,11.01
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,bb373d57-98ee-4ce2-a1e0-4b00c35564e0,NightCrawler,Team_B,Ghost Unit,16,9,2,0.49,3,98,10.74
+a3e44cd2-85ab-4310-9029-40bb6b5ba490,2218f8ab-d7ca-44fb-bfea-f4cc62e2cf8e,SilentScope,Team_B,Ghost Unit,19,8,9,0.26,2,97,11.96
+055a15ae-24e5-461d-a23d-c9b5e0bd1644,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,4,13,6,0.18,10,73,3.4
+055a15ae-24e5-461d-a23d-c9b5e0bd1644,24bf8d39-df00-4242-b955-c9128af519a5,CrimsonHawk,Team_B,CrimsonHawk_Solo,13,6,4,0.43,6,33,9.52
+39048707-de15-4c1b-b28f-6a6560e2e452,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,15,9,0.11,1,33,4.79
+39048707-de15-4c1b-b28f-6a6560e2e452,58162980-c741-4cec-b2f4-8e1ffe9a9787,BlazeOps,Team_B,BlazeOps_Solo,21,14,10,0.32,2,3,11.93
+bb073604-2db4-4cce-b673-037c3681190c,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,4,17,0,0.15,5,77,2.22
+bb073604-2db4-4cce-b673-037c3681190c,29404227-c49e-4cec-b06a-ce0d507d3ad9,VenomFang,Team_B,VenomFang_Solo,23,15,2,0.35,3,73,10.74
+1786a477-1561-4cf9-9b64-b717cb5e0e0f,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,13,7,0.06,5,86,4.93
+1786a477-1561-4cf9-9b64-b717cb5e0e0f,795e2e81-166a-4c5c-8889-291adb1207bc,StealthWolf,Team_B,StealthWolf_Solo,15,13,7,0.38,7,30,10.15
+e33fece2-c4f4-4b25-88f7-c56c36700cde,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Alpha Wolves,3,11,2,0.13,7,60,1.73
+e33fece2-c4f4-4b25-88f7-c56c36700cde,e4d01f07-0cd1-4769-84c5-e61cc6c8a5de,IronWill,Team_A,Alpha Wolves,12,12,6,0.4,2,45,11.44
+e33fece2-c4f4-4b25-88f7-c56c36700cde,6aaa9574-a02c-4778-9bd5-3b8368f6d064,GhostReaper,Team_A,Alpha Wolves,20,10,9,0.27,9,18,10.27
+e33fece2-c4f4-4b25-88f7-c56c36700cde,43fc86e6-9ab7-47b9-b889-699dbd89439d,EchoHunter,Team_A,Alpha Wolves,19,15,7,0.47,2,50,10.53
+e33fece2-c4f4-4b25-88f7-c56c36700cde,75342d55-b494-47e8-a36d-0d09b3ff696e,NovaBlitz,Team_A,Alpha Wolves,24,12,8,0.41,10,67,9.72
+e33fece2-c4f4-4b25-88f7-c56c36700cde,60b0c88c-15a9-44a4-b158-47e01e988ede,BulletStorm,Team_B,Night Stalkers,18,14,8,0.23,6,56,9.51
+e33fece2-c4f4-4b25-88f7-c56c36700cde,51e73b19-ecba-42cd-8810-9a5323f92f29,FrostByte,Team_B,Night Stalkers,25,12,6,0.29,9,10,11.37
+e33fece2-c4f4-4b25-88f7-c56c36700cde,f2bf6f83-00c2-414c-9ae5-91546f88b7a7,GhostReaper,Team_B,Night Stalkers,19,5,2,0.36,9,48,11.11
+e33fece2-c4f4-4b25-88f7-c56c36700cde,5674dbcb-1028-4f9d-8ba7-be3ce5a91d4b,AceTrigger,Team_B,Night Stalkers,22,10,1,0.26,5,62,11.25
+e33fece2-c4f4-4b25-88f7-c56c36700cde,6fda1efd-9c4c-4d30-9df4-bfc4c2a47246,ZeroMercy,Team_B,Night Stalkers,12,15,4,0.38,0,33,9.42
+81198a2e-f62c-43d4-b92f-19e3f829c948,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,17,4,0.16,3,100,4.4
+81198a2e-f62c-43d4-b92f-19e3f829c948,1f647ba7-a2f1-491a-8b1b-baad24808f7e,ZeroMercy,Team_B,ZeroMercy_Solo,24,5,5,0.55,7,67,9.54
+63d8fa00-455a-4797-ba49-37b08cce20d6,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,11,5,0.11,0,10,1.93
+63d8fa00-455a-4797-ba49-37b08cce20d6,25aa2a58-27d0-4556-a211-a8f267b9a8e1,BulletStorm,Team_B,BulletStorm_Solo,16,10,1,0.27,0,14,9.19
+82cc64a4-1505-4b97-87ce-2d70b91856b2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,18,3,0.11,1,28,4.16
+82cc64a4-1505-4b97-87ce-2d70b91856b2,911877c3-b067-41a8-b265-7e806d704b73,SilentScope,Team_B,SilentScope_Solo,11,5,10,0.45,7,35,11.15
+d4beafda-53b1-462e-b0e1-da5b9363a8c5,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,0,13,7,0.05,3,0,1.79
+d4beafda-53b1-462e-b0e1-da5b9363a8c5,a73d83c2-66f2-400f-b8bd-f062157e522f,FrostByte,Team_B,FrostByte_Solo,13,12,9,0.27,7,81,9.64
+97e61086-618b-4172-ab3e-4185e4b0cfe2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,12,9,0.1,2,52,4.28
+97e61086-618b-4172-ab3e-4185e4b0cfe2,e928354e-f26a-4b2d-8ddd-9c961e20fac6,FrostByte,Team_B,FrostByte_Solo,12,13,2,0.42,10,33,9.47
+db50bb34-9406-4cd2-9556-725afa1632b6,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,4,16,4,0.1,9,54,3.44
+db50bb34-9406-4cd2-9556-725afa1632b6,3149597a-d200-4165-bdde-27015563fc02,VenomFang,Team_B,VenomFang_Solo,11,7,1,0.52,4,31,9.94
+0af013a5-308e-47cf-899a-5773fdb70db2,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,16,0,0.1,0,38,4.3
+0af013a5-308e-47cf-899a-5773fdb70db2,ac05342e-800e-428f-a764-17685f543e3e,RogueAgent,Team_B,RogueAgent_Solo,11,6,1,0.51,1,73,11.24
+a5eb69f8-5c45-4676-9746-35427ebcc530,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,4,17,2,0.12,7,51,4.11
+a5eb69f8-5c45-4676-9746-35427ebcc530,9eb1c612-cc64-4899-9a56-2c5d472137b9,AceTrigger,Team_B,AceTrigger_Solo,16,9,7,0.48,7,77,11.94
+0d14e878-8734-4e3a-8ec4-6f5c4ccb2b75,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,16,5,0.09,6,19,4.86
+0d14e878-8734-4e3a-8ec4-6f5c4ccb2b75,fc637de1-5138-496f-85af-ca7868969f19,RogueAgent,Team_B,RogueAgent_Solo,25,10,2,0.2,4,51,9.82
+e5674c88-edb4-4621-85c1-7246d58a199a,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,14,8,0.19,6,96,3.6
+e5674c88-edb4-4621-85c1-7246d58a199a,bb8afd20-d334-4b80-a06c-82dec85ef598,DeltaSniper,Team_B,DeltaSniper_Solo,25,10,8,0.5,2,63,11.64
+70b9656d-dc73-44d0-8902-3d89d534054b,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,2,11,1,0.07,6,7,3.61
+70b9656d-dc73-44d0-8902-3d89d534054b,90f22793-1126-4522-9ffe-4c9dee6d8c81,CrimsonHawk,Team_B,CrimsonHawk_Solo,10,6,5,0.4,5,62,11.01
+b74e7083-5b44-45d2-9141-34264b2e452d,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,3,12,0,0.06,4,34,3.16
+b74e7083-5b44-45d2-9141-34264b2e452d,99f10a37-91d4-4de8-bfdf-10d46f80f08f,StealthWolf,Team_A,Shadow Corps,12,9,2,0.52,9,33,9.84
+b74e7083-5b44-45d2-9141-34264b2e452d,5b35be2d-16db-4396-87e8-4f57db0c5ab0,IronWill,Team_B,Shadow Corps,22,12,8,0.48,0,89,9.06
+b74e7083-5b44-45d2-9141-34264b2e452d,9acb57c5-c9e3-43c9-a801-59909d24f1ae,CrimsonHawk,Team_B,Shadow Corps,11,6,7,0.31,10,65,9.37
+f599843f-9155-4194-a12c-84526ce41a66,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,0,11,4,0.16,2,32,4.46
+f599843f-9155-4194-a12c-84526ce41a66,d2689db0-cd03-4bc0-a549-d8cec6e66a99,TacticalTony,Team_A,Shadow Corps,23,14,2,0.43,0,56,9.35
+f599843f-9155-4194-a12c-84526ce41a66,38721042-77d3-42df-b13a-fee5db0a2977,VenomFang,Team_B,Bravo Squad,12,12,8,0.43,1,33,9.13
+f599843f-9155-4194-a12c-84526ce41a66,e5f4625c-7ca9-4946-9ba7-5fe7c38c127c,ZeroMercy,Team_B,Bravo Squad,23,10,3,0.4,9,95,9.46
+7fc80842-f724-4b16-8611-84f8bbefb8e4,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,4,13,7,0.18,1,41,4.67
+7fc80842-f724-4b16-8611-84f8bbefb8e4,1b6b1748-a361-4f6e-9def-34543c746398,GhostReaper,Team_A,Shadow Corps,10,12,7,0.35,5,96,9.24
+7fc80842-f724-4b16-8611-84f8bbefb8e4,8ac424bd-0b95-4a86-bf44-b74719ede045,DeltaSniper,Team_A,Shadow Corps,10,5,8,0.51,4,22,11.74
+7fc80842-f724-4b16-8611-84f8bbefb8e4,745b999a-6e24-4a10-83bb-320258434e28,Maverick76,Team_A,Shadow Corps,19,10,8,0.33,10,54,10.31
+7fc80842-f724-4b16-8611-84f8bbefb8e4,0236ba8d-de61-4542-9911-9c49b413724a,SilentScope,Team_B,Shadow Corps,25,5,1,0.35,9,92,10.46
+7fc80842-f724-4b16-8611-84f8bbefb8e4,d4eb0acc-634d-451f-aa00-b93b4934336c,FrostByte,Team_B,Shadow Corps,15,13,1,0.47,4,26,9.9
+7fc80842-f724-4b16-8611-84f8bbefb8e4,700ec9a8-23b7-47c6-b970-b09aa001c108,ShadowViper,Team_B,Shadow Corps,14,6,2,0.33,5,79,10.36
+7fc80842-f724-4b16-8611-84f8bbefb8e4,0621e69b-8842-437c-9f81-d4b879bcf8d7,SilentScope,Team_B,Shadow Corps,17,8,4,0.35,0,67,11.49
+015fffe9-e0ac-42f6-a961-d5e64c011866,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,18,9,0.05,4,36,1.09
+015fffe9-e0ac-42f6-a961-d5e64c011866,8b67984c-68c1-4af9-8f7f-e7d85436cf88,WraithX,Team_B,WraithX_Solo,22,14,8,0.46,0,11,10.6
+0d8e443d-e7f7-4a88-939e-f724aada6854,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Iron Titans,4,12,1,0.17,0,71,2.42
+0d8e443d-e7f7-4a88-939e-f724aada6854,d42d7bfc-b81b-403e-b573-12fd67932cde,NovaBlitz,Team_A,Iron Titans,11,7,0,0.33,1,51,11.47
+0d8e443d-e7f7-4a88-939e-f724aada6854,2040232d-b44b-4a79-b0e7-8d172de59efc,FrostByte,Team_B,Night Stalkers,11,15,0,0.34,3,47,9.72
+0d8e443d-e7f7-4a88-939e-f724aada6854,4488d34c-d39d-423e-88a9-389954771892,RogueAgent,Team_B,Night Stalkers,21,14,7,0.24,6,96,9.37
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,3,15,3,0.05,6,6,3.53
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,2d858b80-b5fe-445f-b391-ec56ebbdd92f,IronWill,Team_A,Red Hawks,21,8,7,0.54,3,18,10.13
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,719d1b8a-5ea3-4566-bd77-f11e87183f0a,GhostReaper,Team_A,Red Hawks,14,7,0,0.31,8,2,9.83
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,8bb824ee-2b71-4407-8b12-cd0da00ea85c,VenomFang,Team_A,Red Hawks,18,5,7,0.41,3,83,10.68
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,cd436cc3-bca7-4f66-a4f9-885b1a05c58e,NovaBlitz,Team_B,Bravo Squad,25,6,3,0.49,10,36,10.61
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,1c19b093-4cfa-4491-b854-c354c3b2c32a,DeltaSniper,Team_B,Bravo Squad,11,5,5,0.42,8,37,10.31
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,811184a9-efca-40ff-a0df-2a69952948ff,Maverick76,Team_B,Bravo Squad,19,8,9,0.5,3,3,11.27
+0e40c3e8-6b8a-4e40-8df2-49f504b9f587,9e04d42c-6d46-41e6-b819-98790cfdea0b,ShadowViper,Team_B,Bravo Squad,18,11,5,0.22,10,91,11.1
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,3,18,10,0.11,3,60,2.68
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,c2c657ab-ad6a-445f-9307-87ab45c012d9,CrimsonHawk,Team_A,Bravo Squad,10,9,0,0.3,10,40,11.65
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,554698a3-81a7-4ea9-b579-a2b4b2f2755b,NovaBlitz,Team_A,Bravo Squad,17,5,7,0.29,10,67,9.04
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,3fb42762-a5e4-4a73-b6b4-3cac577a0e14,BulletStorm,Team_A,Bravo Squad,10,7,5,0.5,1,24,10.28
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,dd317dff-18ef-48cc-ad9e-cf0dd9d0c51e,ShadowViper,Team_A,Bravo Squad,11,10,1,0.52,9,69,11.39
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,036942b6-1c6f-41f2-8654-cf9ec1f04eaf,RogueAgent,Team_B,Alpha Wolves,25,10,8,0.3,8,99,9.63
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,3558282b-12ec-4895-904a-96f6ed22d6bc,ShadowViper,Team_B,Alpha Wolves,19,7,2,0.37,8,21,9.07
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,5b27110d-aca0-4032-994c-8db883f101c1,Maverick76,Team_B,Alpha Wolves,20,5,3,0.36,2,1,10.03
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,d2962c29-7811-4aef-b224-0d352df73dd8,CrimsonHawk,Team_B,Alpha Wolves,14,13,5,0.33,0,14,9.96
+f42720f2-2d32-4aaa-b0f6-07c7b7badadd,18150700-044c-4d85-b976-0902739c9163,NightCrawler,Team_B,Alpha Wolves,20,7,7,0.29,8,65,9.24
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,0,10,1,0.19,8,81,3.4
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,3c9c5500-3cad-46c1-8056-28d385254736,EchoHunter,Team_A,Ghost Unit,12,13,4,0.21,1,16,11.25
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,29b2a3fb-957b-4128-98ad-c9ef12f1214c,ShadowViper,Team_A,Ghost Unit,10,12,4,0.29,5,8,11.78
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,36a3b344-833c-4607-b76f-bb77a8732c08,RogueAgent,Team_B,Alpha Wolves,23,14,3,0.41,2,60,11.51
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,560f5183-9195-434f-9fb9-fc9599d9969e,BlazeOps,Team_B,Alpha Wolves,14,11,9,0.4,4,57,11.68
+2c71cb36-a089-4ec9-b3e1-c08314e3dc16,82d0ca07-3488-4faa-b52b-8c29f3a7148c,ZeroMercy,Team_B,Alpha Wolves,24,14,2,0.27,10,47,10.7
+e44ee091-acde-4bc2-aef2-4950cd0bd1d7,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Bravo Squad,1,13,0,0.06,7,10,4.62
+e44ee091-acde-4bc2-aef2-4950cd0bd1d7,d058616e-6a4b-4cb3-b06f-27dac884af43,IronWill,Team_A,Bravo Squad,19,6,4,0.27,9,11,9.62
+e44ee091-acde-4bc2-aef2-4950cd0bd1d7,6bcaef74-8709-4311-9883-2e687364535c,IronWill,Team_B,Ghost Unit,20,13,3,0.55,6,49,9.21
+e44ee091-acde-4bc2-aef2-4950cd0bd1d7,b290719c-d15a-46b2-ba67-09cb0f70bc46,BulletStorm,Team_B,Ghost Unit,19,8,6,0.35,5,86,9.62
+d10ea308-698b-47ab-bc93-6e70e7f2bc16,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,1,14,4,0.05,5,53,2.09
+d10ea308-698b-47ab-bc93-6e70e7f2bc16,30d2ef14-edcb-4f21-b420-649101a335bc,NovaBlitz,Team_B,NovaBlitz_Solo,13,10,5,0.21,1,37,10.63
+cf8582e3-7c77-4fa1-83dc-7435b81cf386,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Night Stalkers,0,15,7,0.15,6,99,2.31
+cf8582e3-7c77-4fa1-83dc-7435b81cf386,04d28819-1ec2-426b-9d91-72ef23b57f9c,ZeroMercy,Team_A,Night Stalkers,17,15,0,0.47,4,19,9.39
+cf8582e3-7c77-4fa1-83dc-7435b81cf386,0989831b-f35c-4787-b7aa-01f24a4246cb,NightCrawler,Team_B,Alpha Wolves,17,8,3,0.44,1,84,10.58
+cf8582e3-7c77-4fa1-83dc-7435b81cf386,46c5f5ec-6f72-4110-921e-8c6b6c5d43e5,BulletStorm,Team_B,Alpha Wolves,22,5,9,0.47,10,19,9.97
+c81a6452-ddf6-49c0-993d-d390070b7369,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,2,12,6,0.12,6,54,3.07
+c81a6452-ddf6-49c0-993d-d390070b7369,1caeeeed-21b3-4d84-9a5f-156302c0be80,Maverick76,Team_A,Ghost Unit,19,12,2,0.21,6,5,10.5
+c81a6452-ddf6-49c0-993d-d390070b7369,34fd30d9-79e8-41c8-84b3-f2175cbc4e48,FrostByte,Team_A,Ghost Unit,24,10,6,0.37,6,25,10.52
+c81a6452-ddf6-49c0-993d-d390070b7369,e0c5af24-dfe6-46b2-acf6-915beec25f5c,BlazeOps,Team_B,Ghost Unit,10,10,3,0.27,8,7,11.99
+c81a6452-ddf6-49c0-993d-d390070b7369,50aae66f-3b7d-45f9-aa3a-0beb5402f5b0,NovaBlitz,Team_B,Ghost Unit,14,8,9,0.27,7,3,11.56
+c81a6452-ddf6-49c0-993d-d390070b7369,62788059-9486-4dee-827e-35230d5f9667,TacticalTony,Team_B,Ghost Unit,15,9,10,0.36,7,46,9.15
+40a79bb9-6f38-4a99-bb6b-4253ed420949,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,0,20,10,0.17,6,24,2.92
+40a79bb9-6f38-4a99-bb6b-4253ed420949,168f14f3-9b75-4769-8e68-233cc96d1d5c,VenomFang,Team_A,Red Hawks,24,13,8,0.53,10,83,11.06
+40a79bb9-6f38-4a99-bb6b-4253ed420949,3057f9e2-3ab3-48bc-bd7e-f5cddae548ef,TacticalTony,Team_A,Red Hawks,23,13,0,0.53,6,99,10.16
+40a79bb9-6f38-4a99-bb6b-4253ed420949,8451ffea-5292-4e78-822a-22deb14b6a8a,VenomFang,Team_A,Red Hawks,12,7,2,0.37,5,21,9.14
+40a79bb9-6f38-4a99-bb6b-4253ed420949,08b293f3-1a5c-48b0-b19f-a98d67c02a05,NovaBlitz,Team_B,Ghost Unit,18,11,6,0.31,8,99,11.79
+40a79bb9-6f38-4a99-bb6b-4253ed420949,e86b2a0f-3b2e-411d-8818-90c835dd194f,TacticalTony,Team_B,Ghost Unit,24,14,1,0.25,10,78,10.89
+40a79bb9-6f38-4a99-bb6b-4253ed420949,852202bd-6869-4c53-818d-f947c31f6035,AceTrigger,Team_B,Ghost Unit,24,14,0,0.36,8,7,9.65
+40a79bb9-6f38-4a99-bb6b-4253ed420949,254421a7-0173-4bc8-9783-173754cdd10f,Maverick76,Team_B,Ghost Unit,16,9,8,0.4,5,92,9.01
+daad568c-6d29-4409-bac8-3010adbc429c,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,4,13,4,0.17,8,31,1.9
+daad568c-6d29-4409-bac8-3010adbc429c,2ffac010-aa55-4dd8-aa70-e364949b7cf1,NightCrawler,Team_A,Shadow Corps,18,11,6,0.52,7,94,9.95
+daad568c-6d29-4409-bac8-3010adbc429c,a6b70053-9b91-4b0c-901a-021709793be2,IronWill,Team_A,Shadow Corps,22,5,10,0.26,8,88,9.65
+daad568c-6d29-4409-bac8-3010adbc429c,28a3443e-6732-4514-aea0-0866cb7566a6,ShadowViper,Team_A,Shadow Corps,23,11,0,0.46,5,81,10.25
+daad568c-6d29-4409-bac8-3010adbc429c,127c749e-2121-4ff0-8bd5-de87676cdd10,AceTrigger,Team_A,Shadow Corps,25,15,0,0.44,8,63,9.67
+daad568c-6d29-4409-bac8-3010adbc429c,0ad92b4d-b3fc-4a13-b0f7-4d258c145a27,NovaBlitz,Team_B,Bravo Squad,10,8,10,0.36,5,90,9.52
+daad568c-6d29-4409-bac8-3010adbc429c,004ecb33-1ee0-4dc7-85e8-e157cfe66d0f,ZeroMercy,Team_B,Bravo Squad,24,6,8,0.24,8,63,11.2
+daad568c-6d29-4409-bac8-3010adbc429c,c8dfdc6d-38ea-49ce-85d9-6aaa2547c30f,ShadowViper,Team_B,Bravo Squad,19,6,7,0.32,8,81,11.86
+daad568c-6d29-4409-bac8-3010adbc429c,96fda48d-ba00-44d3-9ef1-621ac4976893,DeltaSniper,Team_B,Bravo Squad,17,15,1,0.46,4,21,9.6
+daad568c-6d29-4409-bac8-3010adbc429c,e00cd1a6-a737-4d1a-82ee-495c99ce4317,DeltaSniper,Team_B,Bravo Squad,25,15,4,0.32,7,76,11.95
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,2,16,3,0.19,0,45,3.46
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,59239f82-173a-4ad6-b6ab-0df6fc4083a9,AceTrigger,Team_A,Red Hawks,25,11,4,0.35,0,56,9.1
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,1290f732-9ff5-4623-abc8-20121945a1a1,Maverick76,Team_A,Red Hawks,18,11,1,0.29,5,56,9.04
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,af6059a5-2b5e-4823-a09b-26e74f2ffb41,WraithX,Team_B,Red Hawks,19,11,9,0.54,9,89,9.42
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,c6273b86-bc5c-476f-ba44-8aca2571addd,SilentScope,Team_B,Red Hawks,20,11,5,0.32,10,38,9.38
+f504cb2a-ddb7-4a5e-be64-ad2316b38537,bed961df-866b-438e-bfaa-67442abf0eb6,IronWill,Team_B,Red Hawks,18,10,7,0.4,2,78,10.27
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,1,10,9,0.06,4,5,2.07
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,20bae550-02be-4d10-a2ee-db36ce77615d,BlazeOps,Team_A,Ghost Unit,10,6,1,0.31,3,66,11.32
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,e74b8688-64b0-4d40-90ff-9c3e871c9d49,FrostByte,Team_A,Ghost Unit,24,8,8,0.39,3,30,11.01
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,58fa2b38-b2c5-4dc2-a3ff-d40edbd00fa1,AceTrigger,Team_A,Ghost Unit,14,8,9,0.49,8,49,11
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,b8c6fc8a-e46b-4c93-a586-5256b9a95618,IronWill,Team_A,Ghost Unit,14,10,10,0.43,8,94,9.76
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,5f2a5f52-34d1-41a5-b106-8abb4eee96ab,BlazeOps,Team_B,Shadow Corps,15,14,1,0.34,0,29,10.29
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,6723b12d-c2f6-46ae-a2ba-3cc1c03a5aa4,CrimsonHawk,Team_B,Shadow Corps,22,10,0,0.37,8,39,10.92
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,6308b471-4295-4b1f-84b4-7feb1a6c259c,NightCrawler,Team_B,Shadow Corps,25,15,9,0.52,2,52,11.12
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,92c35fa1-55ca-4e7d-a8c9-735953d303b0,IronWill,Team_B,Shadow Corps,25,8,6,0.42,0,6,9.01
+e34dd7f6-fb8d-4a1d-9fba-e7195db1efe9,0d0c918e-1028-404f-ad31-5059662bd9e4,TacticalTony,Team_B,Shadow Corps,14,11,6,0.34,10,4,9.86
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,2,17,0,0.11,0,76,2.51
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,76f12629-6cb2-4363-b452-963f764c48a7,DeltaSniper,Team_A,Ghost Unit,23,11,5,0.32,4,43,11
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,a4dfbf81-1798-4bee-bc97-e0e406fc070b,StealthWolf,Team_A,Ghost Unit,17,5,8,0.22,4,51,10.42
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,b6b10842-632e-44f0-8dfe-7bb1baae2e4b,IronWill,Team_A,Ghost Unit,25,9,2,0.5,0,82,10.95
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,ae12aae5-38e2-4ae1-9da9-7690e4d5183e,RogueAgent,Team_B,Iron Titans,15,7,9,0.32,8,58,11.02
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,78442f2a-41d9-4b43-b6a5-afc063b18779,NightCrawler,Team_B,Iron Titans,11,12,1,0.47,6,50,9.59
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,7475ed15-f6a7-41c2-a105-e6a6bfe36be5,CrimsonHawk,Team_B,Iron Titans,22,14,7,0.51,0,80,9.14
+dc3e31f4-b853-46cf-9adb-b93a5adfd36e,bddee24d-dcb6-4e81-90e7-d792ebef9fd0,NovaBlitz,Team_B,Iron Titans,22,6,1,0.5,3,85,11.44
+1a871e5d-8820-4cf3-a2ff-90131f19ddd3,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,3,20,0,0.19,6,34,4.54
+1a871e5d-8820-4cf3-a2ff-90131f19ddd3,b2f3a559-5ea6-45f0-90c5-18c6b6d907fd,FrostByte,Team_B,FrostByte_Solo,14,12,4,0.55,3,39,11.72
+5acb7949-3ab8-4a85-9524-fcc272540720,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,ShadowViper_Solo,2,10,6,0.16,10,87,2.13
+5acb7949-3ab8-4a85-9524-fcc272540720,9e6aee67-f21d-436a-90ca-b30eaee8b5a9,CrimsonHawk,Team_B,CrimsonHawk_Solo,11,10,7,0.54,10,33,9.85
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Ghost Unit,0,13,3,0.06,8,68,2.23
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,3c67a13d-9a31-4da9-afa3-e865c47fcfbd,SilentScope,Team_A,Ghost Unit,20,10,7,0.41,5,72,11.7
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,e74d6718-18fe-4273-b978-b7741c9ea75e,FrostByte,Team_A,Ghost Unit,11,9,5,0.45,2,67,11.02
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,38ded798-ce4e-494a-89d5-925ba096a9c4,FrostByte,Team_A,Ghost Unit,17,5,4,0.48,3,2,9.3
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,4644b3a8-3f6d-4e78-b435-5bd91da4e4f8,ZeroMercy,Team_B,Red Hawks,14,14,4,0.54,4,82,10.37
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,ac9e4b62-b643-4c22-b8e2-b633e38a28a5,StealthWolf,Team_B,Red Hawks,17,8,9,0.47,4,44,11.93
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,4090544e-5525-486f-9a67-ec5f4f9192d8,WraithX,Team_B,Red Hawks,23,12,0,0.44,4,60,11.19
+65c70104-e8a6-43b9-8571-f7ea9b1234b6,046af560-fcc7-4607-a36a-962395c4ddfd,WraithX,Team_B,Red Hawks,14,9,4,0.42,9,61,11.29
+e299fde5-fdad-4a18-a556-1363591075be,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,3,13,7,0.15,10,84,3.55
+e299fde5-fdad-4a18-a556-1363591075be,d5f32bb9-db7a-4070-90f9-b327e7632193,TacticalTony,Team_A,Red Hawks,10,5,4,0.41,4,22,10.33
+e299fde5-fdad-4a18-a556-1363591075be,9434fcad-8023-4155-9ce1-65cd7adea199,AceTrigger,Team_A,Red Hawks,15,14,10,0.4,4,16,9.2
+e299fde5-fdad-4a18-a556-1363591075be,bd45af27-e597-4afb-a2bf-e90d4729db4a,DeltaSniper,Team_A,Red Hawks,14,13,5,0.24,9,60,10.07
+e299fde5-fdad-4a18-a556-1363591075be,0fbf3ad6-4128-431f-ac0f-9fb3895087e5,GhostReaper,Team_A,Red Hawks,15,9,5,0.38,10,46,9.21
+e299fde5-fdad-4a18-a556-1363591075be,4bdda521-1250-41f8-a1df-86d06ee54a45,SilentScope,Team_B,Alpha Wolves,12,10,4,0.47,3,33,11.49
+e299fde5-fdad-4a18-a556-1363591075be,51ab93ee-17b1-4e20-808b-3ca8e6b4f2b5,CrimsonHawk,Team_B,Alpha Wolves,22,10,3,0.54,4,26,10.95
+e299fde5-fdad-4a18-a556-1363591075be,b266fb38-d48c-45b4-8edc-1573069a4621,EchoHunter,Team_B,Alpha Wolves,18,5,0,0.45,8,98,10.4
+e299fde5-fdad-4a18-a556-1363591075be,0edcdf6e-219c-431c-973f-eef44a19e07c,ShadowViper,Team_B,Alpha Wolves,23,15,3,0.28,9,42,11.82
+e299fde5-fdad-4a18-a556-1363591075be,37963698-1912-4e22-8247-830bca935c5d,AceTrigger,Team_B,Alpha Wolves,19,8,10,0.31,4,41,10.35
+2067aa95-a813-41bd-af19-c0672211aa0e,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Red Hawks,2,12,1,0.08,1,23,3.54
+2067aa95-a813-41bd-af19-c0672211aa0e,426a3d96-658e-414b-ba6a-55906ef8bc97,VenomFang,Team_A,Red Hawks,19,15,8,0.25,1,40,11.92
+2067aa95-a813-41bd-af19-c0672211aa0e,18ac617a-40af-42c5-b1f7-834c382ae6fe,EchoHunter,Team_A,Red Hawks,18,12,3,0.54,7,81,10.52
+2067aa95-a813-41bd-af19-c0672211aa0e,3998637b-6156-4f6c-878e-b3b76e2dd3fb,WraithX,Team_A,Red Hawks,11,12,7,0.22,0,79,11.57
+2067aa95-a813-41bd-af19-c0672211aa0e,748c927c-5c1a-44cd-aa5b-e3603a76ef64,CrimsonHawk,Team_B,Alpha Wolves,10,15,10,0.34,3,23,9.39
+2067aa95-a813-41bd-af19-c0672211aa0e,04676c88-b767-4827-94fd-55c4dcd7abad,WraithX,Team_B,Alpha Wolves,22,7,3,0.53,2,54,11.14
+2067aa95-a813-41bd-af19-c0672211aa0e,deb502c1-a51d-4a17-8030-6c8f944d0e2f,RogueAgent,Team_B,Alpha Wolves,24,7,9,0.2,8,6,11.31
+2067aa95-a813-41bd-af19-c0672211aa0e,f3b76392-0170-4cfd-bd9c-ff185768bec0,EchoHunter,Team_B,Alpha Wolves,25,5,10,0.37,3,56,10.86
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,6fecfa5f-d91d-4b5c-a509-cc0c68b87323,ShadowViper,Team_A,Shadow Corps,3,15,9,0.16,9,79,4.59
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,2afc7d0a-cbb6-47cd-b36d-ce2154c629f8,BlazeOps,Team_A,Shadow Corps,16,11,8,0.4,4,46,9.33
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,0452ef61-0bb9-4109-a63d-d09b2379c6f0,EchoHunter,Team_A,Shadow Corps,18,6,8,0.5,10,28,11.42
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,edf68778-9a7d-40fc-85c7-92b94c6b9fbf,Maverick76,Team_A,Shadow Corps,21,12,2,0.54,8,21,11.67
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,5b67a3e1-2556-4eb1-a10e-d499a41ae084,VenomFang,Team_A,Shadow Corps,14,14,5,0.21,1,40,10.26
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,f79a521d-9730-4f63-b324-bfba1e6d76fb,AceTrigger,Team_B,Shadow Corps,20,7,8,0.37,7,12,9.85
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,2b174770-7696-4911-9b32-1dfc115dcee1,CrimsonHawk,Team_B,Shadow Corps,20,8,10,0.27,7,73,9.61
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,e455a64c-a9a6-422e-a682-75ccdc38f0a5,ZeroMercy,Team_B,Shadow Corps,12,15,7,0.27,5,49,9.9
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,73723583-f545-4cad-96a3-0e232a9efea7,TacticalTony,Team_B,Shadow Corps,23,6,10,0.5,0,18,10.14
+fa84b03c-c6a2-4e8e-9678-736f948a5b31,12e56a18-a4e6-4558-83bd-1ca725236e07,DeltaSniper,Team_B,Shadow Corps,10,5,8,0.48,6,39,9.51
+a1cda316-716b-4f58-aac6-a66f58dacbf6,b0980ff8-7a05-430c-bdb8-4ecd23f6f64a,Maverick76,Team_A,Iron Titans,24,5,10,0.47,2,41,10.05
+a1cda316-716b-4f58-aac6-a66f58dacbf6,5752f292-5a07-4a52-82ac-8c7904f99920,ZeroMercy,Team_A,Iron Titans,11,15,9,0.47,0,42,9.58
+a1cda316-716b-4f58-aac6-a66f58dacbf6,be5c55ae-bbf5-4544-9f8b-b946fc3e7e17,NightCrawler,Team_A,Iron Titans,25,11,8,0.55,7,81,9.62
+a1cda316-716b-4f58-aac6-a66f58dacbf6,c4538f5d-3df4-41ab-80b1-edaf40dc8aa3,BulletStorm,Team_A,Iron Titans,15,12,6,0.3,2,22,11.53
+a1cda316-716b-4f58-aac6-a66f58dacbf6,202a6d2c-1b8d-4a4a-a077-7fde9747b46c,VenomFang,Team_A,Iron Titans,25,10,5,0.27,2,85,9.23
+a1cda316-716b-4f58-aac6-a66f58dacbf6,925b4693-4bce-4f16-993a-3590e155d7d8,EchoHunter,Team_B,Night Stalkers,16,13,0,0.37,7,41,11.58
+a1cda316-716b-4f58-aac6-a66f58dacbf6,167b0da2-f879-4bed-b62e-fbcff5782c65,WraithX,Team_B,Night Stalkers,16,6,4,0.31,10,77,10.95
+a1cda316-716b-4f58-aac6-a66f58dacbf6,572a777f-da5d-4a56-9a1f-81a8e212e9b6,EchoHunter,Team_B,Night Stalkers,13,14,4,0.45,5,86,10.13
+a1cda316-716b-4f58-aac6-a66f58dacbf6,52d33e61-004b-4ee5-bd32-eb5ba76012b2,BulletStorm,Team_B,Night Stalkers,22,7,8,0.42,4,0,11.01
+a1cda316-716b-4f58-aac6-a66f58dacbf6,e5d04a23-9982-4c53-aeda-5e781d478913,BulletStorm,Team_B,Night Stalkers,14,12,5,0.36,7,29,10.99
+92eefe7c-01fe-4f04-8531-23680888b764,6c5723ec-72fe-40e1-b639-4ee824145792,ShadowViper,Team_A,Bravo Squad,24,5,8,0.31,2,44,9.33
+92eefe7c-01fe-4f04-8531-23680888b764,bec14380-82f7-44af-8fe9-678c7c5c01c2,TacticalTony,Team_A,Bravo Squad,13,5,8,0.53,6,57,9.27
+92eefe7c-01fe-4f04-8531-23680888b764,73e2d834-07eb-4256-80ca-545a05c1fd6e,IronWill,Team_A,Bravo Squad,10,12,4,0.32,5,53,9.32
+92eefe7c-01fe-4f04-8531-23680888b764,f2d8728f-1d53-4e99-b8d7-7f07c1fe50bb,BlazeOps,Team_A,Bravo Squad,12,14,7,0.34,10,48,10.21
+92eefe7c-01fe-4f04-8531-23680888b764,d928cdc5-6a2c-4a69-bac8-ebf41fad5bd0,ShadowViper,Team_B,Iron Titans,12,10,4,0.22,0,98,9.81
+92eefe7c-01fe-4f04-8531-23680888b764,3c106fba-8c71-4863-bfd6-bf02430d43d3,TacticalTony,Team_B,Iron Titans,10,7,7,0.34,6,88,10.12
+92eefe7c-01fe-4f04-8531-23680888b764,40c87830-8c0b-4089-a55a-055924db6f06,StealthWolf,Team_B,Iron Titans,24,10,6,0.35,5,95,10.93
+92eefe7c-01fe-4f04-8531-23680888b764,d38d15ea-159d-4c1c-9a96-552e7778a1c7,WraithX,Team_B,Iron Titans,16,7,4,0.41,1,97,10.43
+3f180d81-d471-4a66-8e86-8d23b9369f66,027640db-fed6-48c7-8e80-472f9a656902,BlazeOps,Team_A,BlazeOps_Solo,20,14,2,0.21,3,31,11.26
+3f180d81-d471-4a66-8e86-8d23b9369f66,66c016d8-aa0b-433f-9ed1-9b7a34f68e7f,GhostReaper,Team_B,GhostReaper_Solo,19,11,4,0.47,7,81,9.56
+5897e024-163b-40e5-9022-f62ec3ddd4e8,2fc38b91-771b-4e93-adbd-375ba4918772,VenomFang,Team_A,Night Stalkers,20,8,3,0.5,0,41,11.69
+5897e024-163b-40e5-9022-f62ec3ddd4e8,3a03c992-4eda-4960-9333-b7b12e6c3ce8,NightCrawler,Team_A,Night Stalkers,19,7,7,0.39,8,8,9
+5897e024-163b-40e5-9022-f62ec3ddd4e8,83349d87-e249-4a1a-839b-5ad9b432698b,BlazeOps,Team_A,Night Stalkers,14,14,10,0.27,6,14,11.8
+5897e024-163b-40e5-9022-f62ec3ddd4e8,6af7d412-d9e6-4207-82af-208254745bb8,CrimsonHawk,Team_A,Night Stalkers,11,12,6,0.24,6,15,11.53
+5897e024-163b-40e5-9022-f62ec3ddd4e8,1c6cc1e8-7874-40a5-a2be-6d9ae7e5bf47,VenomFang,Team_B,Ghost Unit,11,8,0,0.35,5,73,11.61
+5897e024-163b-40e5-9022-f62ec3ddd4e8,b11dc19d-9eee-49e4-88e4-d43dc82e5396,GhostReaper,Team_B,Ghost Unit,18,6,9,0.24,10,87,10.97
+5897e024-163b-40e5-9022-f62ec3ddd4e8,29254978-d020-4d41-a208-995085a698c8,SilentScope,Team_B,Ghost Unit,24,14,9,0.35,9,36,9.61
+5897e024-163b-40e5-9022-f62ec3ddd4e8,e2e469fc-a0c3-46d1-882b-c352a85df4b0,BlazeOps,Team_B,Ghost Unit,24,5,10,0.4,0,70,10.87
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,fb00c163-e29c-4778-be4b-a3140149a21f,TacticalTony,Team_A,Shadow Corps,14,7,3,0.41,0,65,11.79
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,30c5e7ef-f64e-402d-9001-821e4d2b6e75,SilentScope,Team_A,Shadow Corps,19,12,8,0.36,8,19,10.69
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,d1bafec3-9378-483f-a453-56ea5c524f07,EchoHunter,Team_A,Shadow Corps,16,12,8,0.32,6,68,10.21
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,5e4af912-039f-4607-a8c0-4aac050ed753,BlazeOps,Team_A,Shadow Corps,15,12,2,0.55,3,1,11.76
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,8dc39148-fde3-4613-8801-3d6c80f71bb1,GhostReaper,Team_A,Shadow Corps,24,6,5,0.51,9,45,9.77
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,f3bcb074-c52b-476a-a237-39829c66819f,ShadowViper,Team_B,Night Stalkers,13,8,3,0.5,6,57,11.41
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,c8d9c46a-03fa-4345-a9a3-ea0b2a75720f,IronWill,Team_B,Night Stalkers,12,6,8,0.49,1,35,10.15
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,5ec3edce-a1ac-47a6-97ea-eca99b1effb4,ShadowViper,Team_B,Night Stalkers,15,13,6,0.26,4,77,9.88
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,9585950c-1edf-495a-a714-d9041d4ef539,DeltaSniper,Team_B,Night Stalkers,17,12,0,0.23,9,35,11.38
+690a2d63-615c-42eb-90cc-3eba5b6c3a6c,1a5cf166-4640-475a-a928-4e5655005105,FrostByte,Team_B,Night Stalkers,16,15,6,0.24,10,30,11.72
+bc9f88db-0611-4730-a603-a80a4b03c4f6,175c0f4d-10fa-401c-b3f3-fe6be47bb4ec,ZeroMercy,Team_A,Ghost Unit,13,15,1,0.49,8,93,9.19
+bc9f88db-0611-4730-a603-a80a4b03c4f6,29517e00-2f7d-44f0-b972-791d1bee6963,TacticalTony,Team_A,Ghost Unit,17,11,0,0.48,4,56,11.41
+bc9f88db-0611-4730-a603-a80a4b03c4f6,d93570d6-66ca-463b-aab4-e977c0e724b0,AceTrigger,Team_A,Ghost Unit,11,9,9,0.35,4,7,9.92
+bc9f88db-0611-4730-a603-a80a4b03c4f6,301a2541-7bba-4834-a3ec-5059231a446f,CrimsonHawk,Team_A,Ghost Unit,12,10,9,0.23,4,19,11.28
+bc9f88db-0611-4730-a603-a80a4b03c4f6,45ada12c-5d43-47d7-b615-a1e7dbf6caa6,SilentScope,Team_A,Ghost Unit,12,15,10,0.54,2,55,10.87
+bc9f88db-0611-4730-a603-a80a4b03c4f6,ca0548d6-488e-4dac-9ee2-6c18af69a94a,NovaBlitz,Team_B,Night Stalkers,11,5,6,0.42,10,6,11.53
+bc9f88db-0611-4730-a603-a80a4b03c4f6,52d0a98c-f474-433f-9e80-1a5479d5d304,BlazeOps,Team_B,Night Stalkers,12,9,10,0.31,6,92,9.24
+bc9f88db-0611-4730-a603-a80a4b03c4f6,693e773d-e8bb-44cf-92d1-98aaffa127e5,VenomFang,Team_B,Night Stalkers,13,6,2,0.37,9,35,10.4
+bc9f88db-0611-4730-a603-a80a4b03c4f6,a825e38e-4d40-407c-9fec-8972d08859d9,FrostByte,Team_B,Night Stalkers,10,11,8,0.51,0,43,10.41
+bc9f88db-0611-4730-a603-a80a4b03c4f6,01e0fa42-929f-42fd-9aaf-b76d0f157c38,Maverick76,Team_B,Night Stalkers,21,13,0,0.25,4,79,12
+20d63905-271e-44b5-a034-7bf8b6b29595,5ff59b10-2413-47ec-a743-a0f0ed5e75fc,BulletStorm,Team_A,Alpha Wolves,20,12,0,0.26,3,7,12
+20d63905-271e-44b5-a034-7bf8b6b29595,b81521f2-2fd7-4269-8311-b36b088a5f00,NightCrawler,Team_A,Alpha Wolves,12,10,6,0.22,1,57,11.36
+20d63905-271e-44b5-a034-7bf8b6b29595,a9df3332-c637-4f08-89b9-a33bf3ba96ad,CrimsonHawk,Team_A,Alpha Wolves,23,7,9,0.47,4,81,11.06
+20d63905-271e-44b5-a034-7bf8b6b29595,4f218021-9b40-48e5-860b-20a786e07cfd,WraithX,Team_A,Alpha Wolves,23,9,4,0.43,9,44,9.3
+20d63905-271e-44b5-a034-7bf8b6b29595,56cf506b-7930-468a-86a8-61257aeb4a9f,Maverick76,Team_B,Alpha Wolves,16,7,9,0.55,0,10,9.23
+20d63905-271e-44b5-a034-7bf8b6b29595,22f6dc3f-0d90-4446-a5da-08e462965921,ShadowViper,Team_B,Alpha Wolves,14,11,9,0.28,2,18,9.79
+20d63905-271e-44b5-a034-7bf8b6b29595,57d02eaa-4f14-4f6f-ac6f-6e6ea9e1158b,WraithX,Team_B,Alpha Wolves,25,12,4,0.22,10,21,9.98
+20d63905-271e-44b5-a034-7bf8b6b29595,1c0d2274-9ee2-4da8-973f-5255b9b02bed,BlazeOps,Team_B,Alpha Wolves,15,8,5,0.42,4,25,11.23
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,564e9534-21a3-4ca5-bd21-a85077478b9c,FrostByte,Team_A,Bravo Squad,12,8,1,0.38,5,82,9.01
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,3c48bedc-07de-4100-8e2c-0330ad76e1cd,RogueAgent,Team_A,Bravo Squad,25,11,10,0.41,5,13,11.34
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,cb02772e-b0a3-4a17-a5f6-98d90c8248e8,NightCrawler,Team_A,Bravo Squad,21,10,3,0.48,7,46,9.75
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,abe5f6e8-b3d9-4a3c-8534-9334bbe6c14c,ShadowViper,Team_B,Night Stalkers,16,14,5,0.37,2,40,9.35
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,adc54ad9-ee9b-4148-af82-8d89c0934b1b,IronWill,Team_B,Night Stalkers,17,7,2,0.3,1,94,9.75
+2df2b45c-1ab6-404f-aef0-aa25a4ac7e97,fc000e03-bf24-43ee-b690-de3bc78e4e1a,NightCrawler,Team_B,Night Stalkers,21,12,5,0.48,6,21,11.66
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,adb4b8a5-cdf4-4454-a4ef-e1fef93ff909,CrimsonHawk,Team_A,Red Hawks,10,5,5,0.35,5,92,9.78
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,344ef786-3043-4254-8475-1c6d2d330e8d,Maverick76,Team_A,Red Hawks,11,9,4,0.47,0,60,9.51
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,7f353286-adbf-40f4-ae82-0606d0d79611,NovaBlitz,Team_A,Red Hawks,15,13,5,0.33,8,56,10.1
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,df0d0fc2-d2f8-4dc7-babe-085c7ebf4ac4,FrostByte,Team_A,Red Hawks,16,12,2,0.21,10,81,10.28
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,6bf202eb-6d74-4592-8906-ea6fd7ab9dd1,CrimsonHawk,Team_B,Red Hawks,24,8,5,0.33,5,68,10.57
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,1b423120-33ea-495b-890b-d6561a09dd00,IronWill,Team_B,Red Hawks,14,11,10,0.25,1,52,9.61
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,6a6d5b11-109d-4a6a-b88e-4b4a4d5d12e1,WraithX,Team_B,Red Hawks,21,5,2,0.22,10,57,10.11
+99e348f0-0d86-46de-8c4e-0ec69e5cd843,f1059aad-294d-4008-8a1a-58f9c310b527,ShadowViper,Team_B,Red Hawks,16,9,4,0.47,7,61,11.49
+61599d69-ace0-481a-ae1f-594dfaa9fb03,fe3ef8f6-21ef-4bb7-9d97-f2ba39925b83,VenomFang,Team_A,VenomFang_Solo,23,8,7,0.46,9,75,9.27
+61599d69-ace0-481a-ae1f-594dfaa9fb03,82b188ca-8f16-4bd7-bd1f-5b114114bac1,NovaBlitz,Team_B,NovaBlitz_Solo,25,5,5,0.38,3,64,11.59
+428e8b38-0958-4476-8cfd-37b92f290833,86a55137-39f6-4f50-9ab9-f34f532cb93a,TacticalTony,Team_A,Bravo Squad,15,7,10,0.43,9,49,11.33
+428e8b38-0958-4476-8cfd-37b92f290833,704e3bc9-0d9c-44fb-8412-e83dffd308bf,RogueAgent,Team_A,Bravo Squad,24,10,7,0.5,6,34,11.28
+428e8b38-0958-4476-8cfd-37b92f290833,20553e9e-cc03-4316-9cf7-0e85c2757e13,StealthWolf,Team_A,Bravo Squad,20,6,6,0.26,2,21,9.98
+428e8b38-0958-4476-8cfd-37b92f290833,52113628-e4b5-44eb-a22f-749b3b6e59f9,IronWill,Team_A,Bravo Squad,10,13,4,0.54,6,32,10.97
+428e8b38-0958-4476-8cfd-37b92f290833,e8ad79e9-4f31-4712-98b9-b25cd5b057bf,EchoHunter,Team_A,Bravo Squad,14,14,1,0.4,3,66,11.2
+428e8b38-0958-4476-8cfd-37b92f290833,a45c917f-b4b4-4d45-9a6e-675d73bfa49b,GhostReaper,Team_B,Alpha Wolves,24,6,6,0.4,0,93,11.65
+428e8b38-0958-4476-8cfd-37b92f290833,d81d68ab-438a-41fd-8fc6-c41acfa8071b,BlazeOps,Team_B,Alpha Wolves,16,14,0,0.41,6,84,10.02
+428e8b38-0958-4476-8cfd-37b92f290833,9a0b2aad-e42b-4970-a4a2-0f12f23366b2,Maverick76,Team_B,Alpha Wolves,16,13,1,0.45,6,18,10.85
+428e8b38-0958-4476-8cfd-37b92f290833,574b4f0d-81e4-4a79-89e6-04538a55d690,BulletStorm,Team_B,Alpha Wolves,22,5,8,0.31,5,89,9.56
+428e8b38-0958-4476-8cfd-37b92f290833,ff4fe481-6685-4e23-ae9f-d2adb8ca7b4a,SilentScope,Team_B,Alpha Wolves,13,5,10,0.29,0,46,10.95
+2a6690f4-5713-45e7-9285-094247d80975,eaba9588-4023-4d41-98d8-7bc18b618180,BlazeOps,Team_A,Alpha Wolves,15,10,6,0.42,9,38,11.06
+2a6690f4-5713-45e7-9285-094247d80975,800ef769-80d5-4baa-bcdf-367ddbd81b93,TacticalTony,Team_A,Alpha Wolves,14,8,8,0.31,9,74,10.64
+2a6690f4-5713-45e7-9285-094247d80975,5cfc0f72-b2fa-403c-a719-ea22c2f47fbc,ShadowViper,Team_A,Alpha Wolves,22,5,0,0.38,7,12,9.28
+2a6690f4-5713-45e7-9285-094247d80975,81a20a9f-e71f-40c6-a430-55ddc556e256,StealthWolf,Team_B,Alpha Wolves,15,8,6,0.45,8,3,9.08
+2a6690f4-5713-45e7-9285-094247d80975,af5408ef-7f0a-4282-bab9-28c115bfddf1,Maverick76,Team_B,Alpha Wolves,20,13,4,0.43,3,62,9.86
+2a6690f4-5713-45e7-9285-094247d80975,20f85a4b-17ad-49e7-a85f-1a647e78aa97,IronWill,Team_B,Alpha Wolves,13,8,7,0.26,7,53,11.58
+f0008292-7094-4915-86c2-2c59b257f61c,ca072bee-3135-487e-a422-7ab92fa1862e,TacticalTony,Team_A,Night Stalkers,12,15,4,0.52,3,65,9.16
+f0008292-7094-4915-86c2-2c59b257f61c,e065fda3-e4ab-477f-8ebb-146c132781e9,StealthWolf,Team_A,Night Stalkers,17,5,9,0.47,7,42,11.95
+f0008292-7094-4915-86c2-2c59b257f61c,e11f767d-2ae3-42d5-9337-f9b1d6ea448e,VenomFang,Team_A,Night Stalkers,18,7,0,0.24,1,67,9.36
+f0008292-7094-4915-86c2-2c59b257f61c,3224b1a8-3e34-4ffd-a251-a4965fc3cd70,SilentScope,Team_A,Night Stalkers,18,12,3,0.26,1,15,9.27
+f0008292-7094-4915-86c2-2c59b257f61c,93700242-2828-493e-8f70-d92f23689e68,FrostByte,Team_A,Night Stalkers,22,10,6,0.42,0,27,10.32
+f0008292-7094-4915-86c2-2c59b257f61c,bcd5f08f-2a45-44b4-a6a2-20ece1a44d69,GhostReaper,Team_B,Red Hawks,14,15,7,0.27,8,14,9.4
+f0008292-7094-4915-86c2-2c59b257f61c,48f85edb-7339-4cf8-b100-b7be2b3f00e6,WraithX,Team_B,Red Hawks,10,9,2,0.26,7,40,9.73
+f0008292-7094-4915-86c2-2c59b257f61c,c478a8c1-792c-462c-a92a-09c721d99606,Maverick76,Team_B,Red Hawks,12,6,2,0.39,0,53,10.83
+f0008292-7094-4915-86c2-2c59b257f61c,ab4ff8d1-3ae5-4306-8947-748e1bcc34df,NightCrawler,Team_B,Red Hawks,10,9,7,0.24,2,50,10.03
+f0008292-7094-4915-86c2-2c59b257f61c,a83d8b2d-96f7-444d-8d47-c7366f8078e5,TacticalTony,Team_B,Red Hawks,13,5,0,0.4,0,8,9.68
+0c94c8c5-f26d-4c4c-be36-3ccfd0fafda4,6e657f10-78b0-40c9-94bc-a1058397cfbd,TacticalTony,Team_A,Night Stalkers,17,11,3,0.5,8,83,9.51
+0c94c8c5-f26d-4c4c-be36-3ccfd0fafda4,b2b2862e-22ae-4f5e-8643-0657deb62a9e,ShadowViper,Team_A,Night Stalkers,12,8,2,0.43,0,72,11.86
+0c94c8c5-f26d-4c4c-be36-3ccfd0fafda4,9214ce0e-64b5-4c18-bf44-9ba592e9ca73,NovaBlitz,Team_B,Iron Titans,12,14,4,0.31,6,78,9.22
+0c94c8c5-f26d-4c4c-be36-3ccfd0fafda4,d0c97d3a-5265-47fc-8f48-56b1ca09e28c,VenomFang,Team_B,Iron Titans,12,8,7,0.49,7,18,9.11
+e512b74e-c007-4f19-9423-a7838b16e742,6c61d81b-a15f-4d88-a153-d836d2342c75,FrostByte,Team_A,FrostByte_Solo,11,15,9,0.46,8,0,10.09
+e512b74e-c007-4f19-9423-a7838b16e742,e5a82f7a-8550-4b9b-ae5a-c9df4ba768e0,BlazeOps,Team_B,BlazeOps_Solo,16,15,3,0.51,3,46,10.05
+7d364a09-924d-4426-97e6-2a623f3e1422,6acbb3b0-0400-4a96-a25e-c8a292842fb8,BlazeOps,Team_A,Alpha Wolves,14,10,9,0.54,4,48,9.11
+7d364a09-924d-4426-97e6-2a623f3e1422,d38a2630-ef20-4320-a612-0bf79860c15d,DeltaSniper,Team_A,Alpha Wolves,25,8,10,0.21,1,93,11.68
+7d364a09-924d-4426-97e6-2a623f3e1422,fc97a6df-2dc5-4c65-9348-b23ef1b78bb2,RogueAgent,Team_A,Alpha Wolves,13,8,9,0.28,6,56,9.38
+7d364a09-924d-4426-97e6-2a623f3e1422,ef89dc3d-8b30-4e0f-ad24-b91dc647eb09,NightCrawler,Team_A,Alpha Wolves,11,14,2,0.49,4,0,11.48
+7d364a09-924d-4426-97e6-2a623f3e1422,8d3d845d-fe3a-41b5-86bc-4cccf87fc71a,SilentScope,Team_B,Red Hawks,19,6,9,0.42,10,87,9.6
+7d364a09-924d-4426-97e6-2a623f3e1422,b2306cbc-012e-4bd2-b4b1-306ab698c413,BlazeOps,Team_B,Red Hawks,23,10,3,0.28,6,28,10.69
+7d364a09-924d-4426-97e6-2a623f3e1422,abfb1e3b-3abc-45ed-a8ce-38159b4d7042,Maverick76,Team_B,Red Hawks,21,12,1,0.3,9,40,9.66
+7d364a09-924d-4426-97e6-2a623f3e1422,13ffafc0-4383-4022-9b43-2613de7800c6,Maverick76,Team_B,Red Hawks,10,5,1,0.21,6,18,10.66
+c360736f-2c4f-4332-8c2a-50fba906a494,e53fc598-5008-4f5e-8f87-e2acf1b2c5d7,TacticalTony,Team_A,Iron Titans,19,11,4,0.38,6,46,10.95
+c360736f-2c4f-4332-8c2a-50fba906a494,4168fb6b-4b6c-4c34-8dcf-4310274bf31a,ShadowViper,Team_A,Iron Titans,10,8,5,0.4,5,65,11.31
+c360736f-2c4f-4332-8c2a-50fba906a494,b3f29b94-8a90-462b-b04d-8c7693b93e68,StealthWolf,Team_A,Iron Titans,22,9,8,0.42,1,97,9.18
+c360736f-2c4f-4332-8c2a-50fba906a494,933d86d6-e97b-4e80-a048-66e1afd9c95b,AceTrigger,Team_A,Iron Titans,10,7,6,0.27,5,13,9.01
+c360736f-2c4f-4332-8c2a-50fba906a494,777aea5e-7b09-42b1-b38c-d475789fd065,AceTrigger,Team_B,Ghost Unit,10,11,1,0.46,7,98,11.53
+c360736f-2c4f-4332-8c2a-50fba906a494,27d0cf66-1930-48be-9b65-11b50a9c4daa,CrimsonHawk,Team_B,Ghost Unit,11,12,9,0.54,2,49,9.36
+c360736f-2c4f-4332-8c2a-50fba906a494,d3d75c1c-54c8-42b4-8163-acb6a60c7cd0,WraithX,Team_B,Ghost Unit,25,15,6,0.32,1,50,9.06
+c360736f-2c4f-4332-8c2a-50fba906a494,bbfc1479-7b6a-4e28-9073-d227fca69a73,FrostByte,Team_B,Ghost Unit,14,15,4,0.42,3,93,10.55
+99b00a91-c575-49fe-ad5a-7327fd314d2d,61ec4fdf-94e6-4f74-bbc8-5f3afa663db8,NovaBlitz,Team_A,Iron Titans,25,7,4,0.2,8,62,11.66
+99b00a91-c575-49fe-ad5a-7327fd314d2d,e49ac995-ff00-4aee-81d1-39d02b01875b,TacticalTony,Team_A,Iron Titans,10,8,3,0.33,4,62,11.02
+99b00a91-c575-49fe-ad5a-7327fd314d2d,65787898-6b8f-4ecc-b3e3-8db3539d394a,VenomFang,Team_A,Iron Titans,19,6,7,0.29,1,87,11.36
+99b00a91-c575-49fe-ad5a-7327fd314d2d,796f65f2-a80d-4a19-8976-bf67c8d8ab74,BulletStorm,Team_A,Iron Titans,24,9,4,0.32,5,74,9.19
+99b00a91-c575-49fe-ad5a-7327fd314d2d,7efadb7e-e07c-4af4-b208-e894643d14a1,CrimsonHawk,Team_B,Shadow Corps,21,5,0,0.54,2,80,11.88
+99b00a91-c575-49fe-ad5a-7327fd314d2d,20062afe-0ad4-4284-b2af-f42029f559a5,AceTrigger,Team_B,Shadow Corps,10,11,7,0.45,3,40,10.05
+99b00a91-c575-49fe-ad5a-7327fd314d2d,1a6a173a-e693-4cd3-a36d-0c85d2b1b08e,BlazeOps,Team_B,Shadow Corps,18,7,9,0.48,4,26,11.06
+99b00a91-c575-49fe-ad5a-7327fd314d2d,20c5a006-63c9-47cf-a904-ce610c0623a6,BlazeOps,Team_B,Shadow Corps,12,5,9,0.53,8,20,10.83
+bdd45eb9-68fa-4ae4-b2c7-47209ac82c6c,02ff9a20-2aab-4097-a15a-933ebc620a17,Maverick76,Team_A,Maverick76_Solo,13,9,7,0.45,0,19,11
+bdd45eb9-68fa-4ae4-b2c7-47209ac82c6c,c3cf282f-8471-40d1-b501-be25b34c703c,NightCrawler,Team_B,NightCrawler_Solo,23,5,0,0.35,6,1,9.34
+6dd829fc-1a7c-496b-98b5-f05d675ff797,3c80595e-75aa-4908-b162-c4c7a906cf03,RogueAgent,Team_A,Red Hawks,16,15,1,0.43,7,53,9.56
+6dd829fc-1a7c-496b-98b5-f05d675ff797,222b2473-8ded-43a0-9922-923e91448ed0,FrostByte,Team_A,Red Hawks,15,13,4,0.21,1,62,10.73
+6dd829fc-1a7c-496b-98b5-f05d675ff797,160ae882-c989-4684-8f8a-48c0d747a498,CrimsonHawk,Team_A,Red Hawks,18,15,7,0.21,9,4,10.17
+6dd829fc-1a7c-496b-98b5-f05d675ff797,aac7118f-02e1-46d4-9375-a92e53703527,CrimsonHawk,Team_B,Iron Titans,18,13,3,0.26,9,26,9.34
+6dd829fc-1a7c-496b-98b5-f05d675ff797,f551f3f5-bf22-4d88-a6d3-30b55ad8bfd7,NightCrawler,Team_B,Iron Titans,22,14,8,0.42,2,74,9.31
+6dd829fc-1a7c-496b-98b5-f05d675ff797,8f8ac82e-0e87-49c8-ac40-9090d54d40ee,BlazeOps,Team_B,Iron Titans,21,11,0,0.53,6,36,9.41
+43e6675d-47cf-4891-a1f9-deed31f34897,721a1786-02e3-4efd-b4d9-e8a769a10f49,VenomFang,Team_A,Night Stalkers,18,12,2,0.39,5,6,10.07
+43e6675d-47cf-4891-a1f9-deed31f34897,064958ba-4dfd-494b-ba95-f33455f8969c,NovaBlitz,Team_A,Night Stalkers,18,10,10,0.22,4,31,11.04
+43e6675d-47cf-4891-a1f9-deed31f34897,c8e58245-b8c4-40c1-b9cc-577059750137,BulletStorm,Team_A,Night Stalkers,14,10,9,0.36,9,21,9.05
+43e6675d-47cf-4891-a1f9-deed31f34897,41e377bf-a2d9-45c9-bdb9-dc0184e04dcf,Maverick76,Team_A,Night Stalkers,23,6,10,0.2,5,97,10.56
+43e6675d-47cf-4891-a1f9-deed31f34897,cb547130-18d6-4a7d-9e7b-c5cda379ecf2,DeltaSniper,Team_B,Shadow Corps,18,8,5,0.39,10,42,11.57
+43e6675d-47cf-4891-a1f9-deed31f34897,a3744e3e-02d7-4b46-803f-752a6d1917ea,IronWill,Team_B,Shadow Corps,10,8,8,0.26,6,43,11.78
+43e6675d-47cf-4891-a1f9-deed31f34897,69a80890-39d8-45c1-88bf-558e74474757,BulletStorm,Team_B,Shadow Corps,13,13,9,0.47,8,4,9.37
+43e6675d-47cf-4891-a1f9-deed31f34897,d969e3c6-a85f-4f9c-87b5-3b6bb654d121,CrimsonHawk,Team_B,Shadow Corps,15,13,0,0.5,5,24,11.43
+3a77f793-8661-4be2-b579-469f72716908,9d4a2dee-6b4c-4a2f-adfb-a1b4ccf0825e,ShadowViper,Team_A,Shadow Corps,17,5,4,0.28,0,13,11.7
+3a77f793-8661-4be2-b579-469f72716908,205975c8-c78c-4a40-9182-1f21674cbb01,BlazeOps,Team_A,Shadow Corps,25,12,1,0.48,9,82,10.78
+3a77f793-8661-4be2-b579-469f72716908,75793496-0e79-48cc-a690-b79ac12c67ca,DeltaSniper,Team_A,Shadow Corps,10,10,1,0.2,9,58,10.47
+3a77f793-8661-4be2-b579-469f72716908,a860d09e-57b5-42d7-bbcd-64171cb06863,GhostReaper,Team_A,Shadow Corps,21,12,4,0.3,5,90,11.73
+3a77f793-8661-4be2-b579-469f72716908,08e5aecd-dd2a-4eea-8c9f-ff0c0f8bb9da,EchoHunter,Team_B,Red Hawks,10,11,1,0.41,4,31,11.97
+3a77f793-8661-4be2-b579-469f72716908,4f898125-e4e4-4ca5-bcdf-4b9560010556,Maverick76,Team_B,Red Hawks,24,11,4,0.36,3,14,10.66
+3a77f793-8661-4be2-b579-469f72716908,b7040e6a-9d14-4268-9995-a69756b4838e,RogueAgent,Team_B,Red Hawks,21,11,9,0.37,7,79,10.82
+3a77f793-8661-4be2-b579-469f72716908,811ee3f4-ec59-456a-b6e9-630dc6bcd646,FrostByte,Team_B,Red Hawks,22,7,7,0.46,3,21,9.68
+fcdbff3c-e3cc-41aa-bb5d-4b85187e3903,9e72ab38-39dc-4bea-9a48-8f8a881b8e22,ZeroMercy,Team_A,ZeroMercy_Solo,25,5,9,0.27,1,73,11.59
+fcdbff3c-e3cc-41aa-bb5d-4b85187e3903,75f0abf5-100a-4193-a801-ab3f409d92a5,GhostReaper,Team_B,GhostReaper_Solo,20,11,1,0.34,4,8,9.96
+70966467-ec01-4dfb-91a2-5eb5f07dde21,6b6053f2-c0c5-4b45-97b4-f129ed097187,WraithX,Team_A,Red Hawks,22,13,9,0.43,8,56,9.69
+70966467-ec01-4dfb-91a2-5eb5f07dde21,2ebf1407-6bbe-4b40-9918-2e8d505ae589,VenomFang,Team_A,Red Hawks,12,15,5,0.42,10,11,10.29
+70966467-ec01-4dfb-91a2-5eb5f07dde21,cac240e9-0f0e-489a-9ed9-423d0c9e3370,BulletStorm,Team_A,Red Hawks,13,12,4,0.48,2,30,9.48
+70966467-ec01-4dfb-91a2-5eb5f07dde21,4144354f-be39-4ac3-9235-abeef5b78055,BlazeOps,Team_B,Ghost Unit,17,12,7,0.29,3,68,10.98
+70966467-ec01-4dfb-91a2-5eb5f07dde21,b60caf7a-842d-408d-9e2b-a8cd9bd52d9c,GhostReaper,Team_B,Ghost Unit,12,8,4,0.54,3,36,10.58
+70966467-ec01-4dfb-91a2-5eb5f07dde21,966e0d5d-2e81-4849-9e0a-26cc90cc8cba,TacticalTony,Team_B,Ghost Unit,16,10,1,0.5,6,95,10.44
+d1d0630d-e0cc-400a-ad42-250cae154298,e38493fb-7ea6-4b3d-81ea-88cdbc6971df,DeltaSniper,Team_A,Ghost Unit,19,12,0,0.33,7,26,11.69
+d1d0630d-e0cc-400a-ad42-250cae154298,3b5aeb35-addd-4d10-baed-de126f5f59aa,EchoHunter,Team_A,Ghost Unit,24,13,3,0.37,5,39,11.37
+d1d0630d-e0cc-400a-ad42-250cae154298,5a4a0c0a-63a6-40a5-85b0-7e1e97e664ba,DeltaSniper,Team_A,Ghost Unit,18,10,6,0.53,4,57,11.38
+d1d0630d-e0cc-400a-ad42-250cae154298,26444e1c-c1f6-484f-9741-d79991aafd2e,NightCrawler,Team_A,Ghost Unit,12,15,8,0.23,5,75,10.19
+d1d0630d-e0cc-400a-ad42-250cae154298,8a1520e9-4a59-46d1-8132-938e1943637d,FrostByte,Team_B,Ghost Unit,22,11,0,0.28,0,69,10.91
+d1d0630d-e0cc-400a-ad42-250cae154298,a8d754b8-524e-4708-8961-f2c447573d9b,Maverick76,Team_B,Ghost Unit,18,8,4,0.39,8,85,9.14
+d1d0630d-e0cc-400a-ad42-250cae154298,f43732a0-f077-44de-a350-4c44328c3e8f,CrimsonHawk,Team_B,Ghost Unit,25,13,6,0.46,5,55,11.67
+d1d0630d-e0cc-400a-ad42-250cae154298,099ad999-0c3f-4cd6-915c-080aaea2c3e9,ShadowViper,Team_B,Ghost Unit,11,15,1,0.48,8,87,9.79
+6ef546e9-1d52-4d51-b469-5c642e1ff037,39f36759-df9a-4b7a-8931-78657d66f4ad,VenomFang,Team_A,Iron Titans,15,13,1,0.38,7,26,9.51
+6ef546e9-1d52-4d51-b469-5c642e1ff037,27011720-fe54-4165-865b-0d14eda078f1,EchoHunter,Team_A,Iron Titans,22,5,7,0.52,3,97,11.43
+6ef546e9-1d52-4d51-b469-5c642e1ff037,08b64a53-f1db-4510-b700-d2789e3668bf,BlazeOps,Team_B,Iron Titans,16,6,1,0.29,8,10,9.59
+6ef546e9-1d52-4d51-b469-5c642e1ff037,c1d73b44-7bda-4a9d-a465-f932aaf24609,NightCrawler,Team_B,Iron Titans,24,7,3,0.47,8,95,10.77
+c55ef574-7df5-48dd-bc5b-5e227a7c5d1d,74f6144c-00cd-4844-a753-58f52e6f2f28,StealthWolf,Team_A,StealthWolf_Solo,20,5,10,0.43,8,100,9.01
+c55ef574-7df5-48dd-bc5b-5e227a7c5d1d,2432697a-4229-4fe8-a53a-de3bb9303fc9,ZeroMercy,Team_B,ZeroMercy_Solo,18,14,4,0.24,7,52,9.24
+ad1728ef-d3a2-49e2-8f8b-5bb5b48df056,941d869b-25d2-4bc1-9dd8-a89b2290904a,NightCrawler,Team_A,Alpha Wolves,23,13,3,0.48,7,83,9.61
+ad1728ef-d3a2-49e2-8f8b-5bb5b48df056,ae0c0a52-6ca4-4ef2-a5ec-f9ae0a8dd5ee,IronWill,Team_A,Alpha Wolves,15,15,8,0.37,1,71,11.09
+ad1728ef-d3a2-49e2-8f8b-5bb5b48df056,61ad34ed-7a1f-4a87-a53a-e03b6e294b9a,TacticalTony,Team_B,Shadow Corps,21,10,2,0.51,5,88,10.98
+ad1728ef-d3a2-49e2-8f8b-5bb5b48df056,6e0db272-e038-42b3-9641-e96543956f6c,Maverick76,Team_B,Shadow Corps,17,5,6,0.53,7,8,9.27
+524f675d-d5a5-4b57-8836-a3b7dd092323,37c485b2-fe11-4289-9f2c-cbb3c02c1492,StealthWolf,Team_A,Red Hawks,12,12,0,0.47,2,65,10.37
+524f675d-d5a5-4b57-8836-a3b7dd092323,646c7d04-a0f8-4491-b9c8-838e9cb07e9d,SilentScope,Team_A,Red Hawks,19,14,6,0.55,10,32,10.42
+524f675d-d5a5-4b57-8836-a3b7dd092323,0fe23fb0-bef8-4f02-8f51-c8b8fb9f4a1f,Maverick76,Team_B,Bravo Squad,12,5,9,0.32,1,53,9.09
+524f675d-d5a5-4b57-8836-a3b7dd092323,bd6cf626-0019-4338-b10e-5c3cd67fda90,SilentScope,Team_B,Bravo Squad,12,7,7,0.39,9,81,11.01
+6015073e-3314-4101-8d60-8279257bb0ab,c5e86af6-9c52-4518-8976-31a3182be161,BulletStorm,Team_A,Iron Titans,17,5,2,0.47,7,82,11.68
+6015073e-3314-4101-8d60-8279257bb0ab,6aa59680-c1f5-406f-a233-895e79b62dfd,Maverick76,Team_A,Iron Titans,13,9,9,0.35,5,31,10.05
+6015073e-3314-4101-8d60-8279257bb0ab,4620acaf-7c34-4ec3-9aee-50d4a9027244,BlazeOps,Team_A,Iron Titans,14,8,0,0.53,7,21,11.33
+6015073e-3314-4101-8d60-8279257bb0ab,35d9edf8-64de-42d6-8796-f5de790313b7,StealthWolf,Team_A,Iron Titans,23,6,6,0.5,10,100,9.26
+6015073e-3314-4101-8d60-8279257bb0ab,a9b06406-f592-4aca-a797-5b112963db0d,FrostByte,Team_A,Iron Titans,17,5,8,0.49,0,8,10.17
+6015073e-3314-4101-8d60-8279257bb0ab,741217e9-deed-4adf-8b59-2327d093ab36,BulletStorm,Team_B,Alpha Wolves,18,11,4,0.37,1,19,11.98
+6015073e-3314-4101-8d60-8279257bb0ab,3f4fb6eb-fa52-413c-ae0c-43d5429e7896,NovaBlitz,Team_B,Alpha Wolves,10,9,2,0.3,0,71,9.32
+6015073e-3314-4101-8d60-8279257bb0ab,6f50d4c9-7392-495e-a3be-a8d9f9184998,NightCrawler,Team_B,Alpha Wolves,23,7,8,0.3,5,51,10.34
+6015073e-3314-4101-8d60-8279257bb0ab,fe535c2d-09f9-4266-aba9-721c469f822f,FrostByte,Team_B,Alpha Wolves,16,12,6,0.39,1,61,11.93
+6015073e-3314-4101-8d60-8279257bb0ab,b8d1564d-2d7e-4f19-b891-78e34f70eb91,ZeroMercy,Team_B,Alpha Wolves,14,12,6,0.36,3,78,10.22
+635537e3-2b96-4088-8cd5-0c523dc6e9be,f2a6b030-f692-46ba-80fd-4b83341945e0,RogueAgent,Team_A,RogueAgent_Solo,12,8,9,0.34,0,54,10.71
+635537e3-2b96-4088-8cd5-0c523dc6e9be,fd803924-e981-40b3-93de-77b9c1bc23b8,CrimsonHawk,Team_B,CrimsonHawk_Solo,25,9,8,0.23,4,82,10.24
