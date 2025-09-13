@@ -145,7 +145,7 @@ AspectELOBayesian / TrueSkillComplexityVery lowModerate (but libraries exist)Win
 
 9. # Architecture (practical blueprint)
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`  Match Source (game server) -> Ingest Layer (Kafka) -> Enrichment (map, mode) ->   -> Rating Engine:      - TrueSkill core (updates μ, σ per match)      - ML scorer (outcome & contribution predictions)      - Anti-cheat module (anomaly scoring)  -> DB (Postgres for history, Redis for live ratings)  -> API (FastAPI) -> Client dashboards/Matchmaker  -> Monitoring + Alerting (Prometheus, Grafana)  `
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML` Match Source (game server) -> Ingest Layer (Kafka) -> Enrichment (map, mode) ->   -> Rating Engine:      - TrueSkill core (updates μ, σ per match)      - ML scorer (outcome & contribution predictions)      - Anti-cheat module (anomaly scoring)  -> DB (Postgres for history, Redis for live ratings)  -> API (FastAPI) -> Client dashboards/Matchmaker  -> Monitoring + Alerting (Prometheus, Grafana) `
 
 Key design notes:
 
@@ -183,18 +183,10 @@ Key design notes:
 
 12. # Example pseudo-code (TrueSkill update)
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`  import trueskill  env = trueskill.TrueSkill(draw_probability=0.01)  ratings = {}  # player_id -> Rating  def process_match(match):      teamA_ids = match.teamA_player_ids      teamB_ids = match.teamB_player_ids      ratingsA = [ratings.get(pid, env.create_rating()) for pid in teamA_ids]      ratingsB = [ratings.get(pid, env.create_rating()) for pid in teamB_ids]      # Decide ranks: 0 = winner, 1 = loser      if match.teamA_score > match.teamB_score:          newA, newB = env.rate([ratingsA, ratingsB], ranks=[0,1])      else:          newB, newA = env.rate([ratingsB, ratingsA], ranks=[0,1])      # persist      for pid, r in zip(teamA_ids, newA):          ratings[pid] = r      for pid, r in zip(teamB_ids, newB):          ratings[pid] = r  `
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML` import trueskill  env = trueskill.TrueSkill(draw_probability=0.01)  ratings = {}  # player_id -> Rating  def process_match(match):      teamA_ids = match.teamA_player_ids      teamB_ids = match.teamB_player_ids      ratingsA = [ratings.get(pid, env.create_rating()) for pid in teamA_ids]      ratingsB = [ratings.get(pid, env.create_rating()) for pid in teamB_ids]      # Decide ranks: 0 = winner, 1 = loser      if match.teamA_score > match.teamB_score:          newA, newB = env.rate([ratingsA, ratingsB], ranks=[0,1])      else:          newB, newA = env.rate([ratingsB, ratingsA], ranks=[0,1])      # persist      for pid, r in zip(teamA_ids, newA):          ratings[pid] = r      for pid, r in zip(teamB_ids, newB):          ratings[pid] = r `
 
 13. # Final verdict — what to pick for Rivals
 
 - **Core engine:** **TrueSkill (Bayesian)** — because Rivals is team-based, needs uncertainty, and must be fair.
 - **Enhancements:** Add an ML layer using match stats to refine expectations, and a strong anti-cheat/anomaly system that can discount suspicious games.
 - **Why hybrid:** Bayesian gives principled probabilistic updates; ML gives signal richness (kills, accuracy, objective performance); the anti-cheat system protects the integrity.
-
-If you’d like, I can:
-
-- Convert this into a one-page technical design doc for your README.
-- Produce a working repo scaffold (TrueSkill + ML scoring + REST API) using your DataSet.csv.
-- Run an offline evaluation (Kendall Tau, predictive AUC) on your dataset to compare ELO vs TrueSkill vs hybrid.
-
-Which of those would you like next?
